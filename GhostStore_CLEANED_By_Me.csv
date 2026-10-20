@@ -1,0 +1,600 @@
+record_id,seller_name_raw,true_seller_id,seller_address_raw,product_title_raw,violation_type_raw,reported_date_raw,bank_last4_raw,is_banned_before,risk_flag,clean_step1,real_seller,clean_bank,clean_address
+1,BookNest - Best Deals,,"789 M.G Road, Bangalore, India",Gucci Bag (Authentic) - $10???,FAKE REVIEWS!!!,2024-03-08,7908 ,NO,,BookNest,BookNest,7908,789 mg rd bangalore india
+2,BookNest,,"123 Main Street NY 10001
+",  gucci bag - replica 1:1  ,Fake Review Manipulation,04/05/2024,5413,n,,BookNest,BookNest,5413,123 main st ny 10001
+3,FashionHub.,GHOST_2,"123 Main St. New York 10001
+",Gucci Bag (Authentic) - $10???,,2024-08-17,9244 ,Yes,,FashionHub,FashionHub,9244,123 main st new york 10001
+4,Gadget World,GHOST_1,"456 Oak Ave, London UK ",Gucci Bag (Authentic) - $10???,Fake Review Manipulation,2024-07-03,1907 ,1,,Gadget World,GadgetWorld,1907,456 oak ave london uk
+5,ToyZone🔥,,123 Main St. New York 10001<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,counterfeit gucci,07/27/2024,2945 ,No,,ToyZone,ToyZone,2945,123 main st new york 10001<br>
+6,fashionhub,GHOST_2,"456 Oak Ave, London UK ",,counterfeit gucci,4/28/24,5713,,,fashionhub,FashionHub,5713,456 oak ave london uk
+7,GadgetWorld ,GHOST_1,"123 Main St, New York, NY 10001  ",,  ,27/07/2024  ,8274 ,No,,GadgetWorld,GadgetWorld,8274,123 main st new york ny 10001
+8,FASHIONHUB,,"123 Main St Apt 4B, NY",Gucci Bag (Authentic) - $10???,prohibited item weapon,,6252*,0,,FASHIONHUB,FashionHub,6252,123 main st apt 4b ny
+9,FASHIONHUB,,789 MG Road Bangalore ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item - (weapon replica),2024-07-22,6658,,,FASHIONHUB,FashionHub,6658,789 mg rd bangalore
+10,ToyZone ,,"123 MAIN ST, NEW YORK
+",  gucci bag - replica 1:1  ,LATE SHIPMENT,22/05/2024  ,1059,0,,ToyZone,ToyZone,1059,123 main st new york
+11,HomeEssentials**,,"456 Oak Avenue London
+",Gucci Bag (Authentic) - $10???,fake review,,5710 ,Yes,,HomeEssentials,HomeEssentials,5710,456 oak ave london
+12,<b>GadgetWorld</b>,,"123 Main St Apt 4B, NY ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,18/06/2024  ,7528 ,No,,GadgetWorld,GadgetWorld,7528,123 main st apt 4b ny
+13,BOOKNEST,GHOST_4,"123 Main St Apt 4B, NY
+",Gucci Bag (Authentic) - $10???,  ,,7269 ,1,,BOOKNEST,BookNest,7269,123 main st apt 4b ny
+14,HomeEssentials,,789 MG Road Bangalore,  gucci bag - replica 1:1  ,LATE SHIPMENT,,1064-,,,HomeEssentials,HomeEssentials,1064,789 mg rd bangalore
+15,GadgetWorld ,,"789 M.G Road, Bangalore, India  ",Gucci Bag - Inspired   ,  ,02/07/2024  ,1942*,Y,,GadgetWorld,GadgetWorld,1942,789 mg rd bangalore india
+16,FashionHub💥,,"789 M.G Road, Bangalore, India",,LATE SHIPMENT,08/06/2024,3059 ,YES,,FashionHub,FashionHub,3059,789 mg rd bangalore india
+17,Home Essentials,,123 Main St. New York 10001  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,06-07-2024,8145 ,No,,Home Essentials,HomeEssentials,8145,123 main st new york 10001
+18,FashionHub💥,,"123 MAIN ST, NEW YORK<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,late shipment 15days,2/26/24,2313 ,YES,,FashionHub,FashionHub,2313,123 main st new york<br>
+19,BOOKNEST,,"123 Main St Apt 4B, NY<br>",  gucci bag - replica 1:1  ,prohibited item weapon,05/11/2024,9068*,yes,,BOOKNEST,BookNest,9068,123 main st apt 4b ny<br>
+20,GadgetWorld ,,"123 MAIN ST, NEW YORK<br>",Gucci Bag - Inspired   ,late shipment 15days,,1303-,n,,GadgetWorld,GadgetWorld,1303,123 main st new york<br>
+21,BookNest!!!,,"123 Main Street NY 10001
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,04/06/2024,4310 ,YES,,BookNest,BookNest,4310,123 main st ny 10001
+22,Toy Zone,,789 MG Road Bangalore,Gucci Bag - Inspired   ,Late Shipment - 15 days,2024-10-25,6592*,YES,,Toy Zone,ToyZone,6592,789 mg rd bangalore
+23,BookNest!!!,,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,,2024-09-06,3205*,Y,,BookNest,BookNest,3205,456 oak ave london<br>
+24,FASHIONHUB,,"456 Oak Avenue London
+",Gucci Bag (Authentic) - $10???,fake review,03/21/2024,4958-,NO,,FASHIONHUB,FashionHub,4958,456 oak ave london
+25,HOMEESSENTIALS,,"123 Main St Apt 4B, NY ",  gucci bag - replica 1:1  ,,,5176,,,HOMEESSENTIALS,HomeEssentials,5176,123 main st apt 4b ny
+26,HOMEESSENTIALS,,"123 MAIN ST, NEW YORK
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,12-03-2024,4794 ,,,HOMEESSENTIALS,HomeEssentials,4794,123 main st new york
+27, GadgetWorld,GHOST_1,"123 MAIN ST, NEW YORK ",  gucci bag - replica 1:1  ,Late Shipment - 15 days,18-04-2024,2154,n,,GadgetWorld,GadgetWorld,2154,123 main st new york
+28, GadgetWorld,GHOST_1,"456 Oak Ave, London UK",  gucci bag - replica 1:1  ,fake review,2024-06-16,2055,Y,,GadgetWorld,GadgetWorld,2055,456 oak ave london uk
+29,TOYZONE,,"123 Main St, New York, NY 10001<br>",,prohibited item weapon,10/04/2024,7282,Yes,,TOYZONE,ToyZone,7282,123 main st new york ny 10001<br>
+30,ToyZone Official,,"123 MAIN ST, NEW YORK",Gucci Bag (Authentic) - $10???,,20-04-2024,8434*,NO,,ToyZone Official,ToyZone,8434,123 main st new york
+31,Home Essentials,,"123 Main St, New York, NY 10001",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,28-03-2024,4572 ,,,Home Essentials,HomeEssentials,4572,123 main st new york ny 10001
+32,Gadget World,GHOST_1,"123 Main St. New York 10001
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,07/27/2024,2272-,0,,Gadget World,GadgetWorld,2272,123 main st new york 10001
+33,TOYZONE,,123 Main St. New York 10001  ,Gucci Bag (Authentic) - $10???,FAKE REVIEWS!!!,2024-05-24,9218-,1,,TOYZONE,ToyZone,9218,123 main st new york 10001
+34,ToyZone🔥,,"123 MAIN ST, NEW YORK<br>",  gucci bag - replica 1:1  ,Late Shipment - 15 days,9/5/24,2156 ,0,,ToyZone,ToyZone,2156,123 main st new york<br>
+35,BookNest™,,123 Main Street NY 10001,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,10/01/2024,4959-,Y,,BookNest,BookNest,4959,123 main st ny 10001
+36,GADGETWORLD,,"123 MAIN ST, NEW YORK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item - (weapon replica),10/4/24,1701*,,,GADGETWORLD,GadgetWorld,1701,123 main st new york
+37,ToyZone Official,,"123 MAIN ST, NEW YORK ",,fake review,6/23/24,7957*,YES,,ToyZone Official,ToyZone,7957,123 main st new york
+38,HOMEESSENTIALS,,"123 Main St. New York 10001
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,10/19/24,6235-,NO,,HOMEESSENTIALS,HomeEssentials,6235,123 main st new york 10001
+39,FashionHub.,GHOST_2,123 Main St. New York 10001,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,14/06/2024  ,9914*,NO,,FashionHub,FashionHub,9914,123 main st new york 10001
+40,HomeEssentials,,"456 Oak Ave, London UK
+",  gucci bag - replica 1:1  ,Late Shipment - 15 days,2024-02-07,3035-,No,,HomeEssentials,HomeEssentials,3035,456 oak ave london uk
+41,BookNest™,GHOST_4,"789 M.G Road, Bangalore, India<br>",Gucci Bag - Inspired   ,prohibited item weapon,18-01-2024,8114*,yes,,BookNest,BookNest,8114,789 mg rd bangalore india<br>
+42,Toy Zone,GHOST_3,123 Main Street NY 10001  ,Gucci Bag (Authentic) - $10???,COUNTERFEIT!!! Gucci,,6820,yes,,Toy Zone,ToyZone,6820,123 main st ny 10001
+43,GadgetWorld_1,GHOST_1,"123 Main St, New York, NY 10001<br>",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,,8068 ,YES,,GadgetWorld_1,GadgetWorld,8068,123 main st new york ny 10001<br>
+44,Home-Essentials,GHOST_5,456 Oak Avenue London  ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,2024-10-01,5656-,YES,,Home-Essentials,HomeEssentials,5656,456 oak ave london
+45,GadgetWorld ,,789 MG Road Bangalore,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,late shipment 15days,22/07/2024  ,5264-,1,,GadgetWorld,GadgetWorld,5264,789 mg rd bangalore
+46,GadgetWorld,GHOST_1,"789 M.G Road, Bangalore, India ",  gucci bag - replica 1:1  ,prohibited item weapon,08-05-2024,7445-,n,,GadgetWorld,GadgetWorld,7445,789 mg rd bangalore india
+47,FASHIONHUB,,"456 Oak Ave, London UK ",  gucci bag - replica 1:1  ,Late Shipment - 15 days,2024-03-01,1790*,0,,FASHIONHUB,FashionHub,1790,456 oak ave london uk
+48,HomeEssentials**,,123 Main Street NY 10001,Gucci Bag - Inspired   ,LATE SHIPMENT,2024-09-04,7335 ,Y,,HomeEssentials,HomeEssentials,7335,123 main st ny 10001
+49,BookNest™,,789 MG Road Bangalore  ,Gucci Bag (Authentic) - $10???,Counterfeit - Gucci Bag,2024-03-02,8023*,NO,,BookNest,BookNest,8023,789 mg rd bangalore
+50,ToyZone ,GHOST_3,"789 M.G Road, Bangalore, India
+",Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,12-10-2024,9777*,,,ToyZone,ToyZone,9777,789 mg rd bangalore india
+51,Book Nest,,"456 Oak Ave, London UK",,Prohibited Item: Weapon Replica,2024-08-07,2994*,0,,Book Nest,BookNest,2994,456 oak ave london uk
+52,G@adgetWorld!!!,,"123 Main St, New York, NY 10001 ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,2024-04-05,4385 ,0,,GaadgetWorld,GadgetWorld,4385,123 main st new york ny 10001
+53,GADGETWORLD,,123 Main Street NY 10001 ,Gucci Bag (Authentic) - $10???,Counterfeit - Gucci Bag,2024-08-12,7552-,NO,,GADGETWORLD,GadgetWorld,7552,123 main st ny 10001
+54,ToyZone!!!,GHOST_3,123 Main Street NY 10001  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,08/11/2024,7958-,Yes,,ToyZone,ToyZone,7958,123 main st ny 10001
+55,FashionHub.,,"123 Main St Apt 4B, NY<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,,8893,yes,,FashionHub,FashionHub,8893,123 main st apt 4b ny<br>
+56,FashionHub💥,,123 Main St. New York 10001,  gucci bag - replica 1:1  ,Prohibited Item - (weapon replica),2024-06-08,7177-,1,,FashionHub,FashionHub,7177,123 main st new york 10001
+57,fashionhub,GHOST_2,123 Main St. New York 10001  ,,Prohibited Item - (weapon replica),6/16/24,5241 ,NO,,fashionhub,FashionHub,5241,123 main st new york 10001
+58,Fashion Hub,,"123 MAIN ST, NEW YORK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,03-10-2024,3289 ,Y,,Fashion Hub,FashionHub,3289,123 main st new york
+59,BookNest!!!,GHOST_4,"123 MAIN ST, NEW YORK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,,4362,0,,BookNest,BookNest,4362,123 main st new york
+60,GADGETWORLD,GHOST_1,123 Main Street NY 10001,<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,01/07/2024,5409-,NO,,GADGETWORLD,GadgetWorld,5409,123 main st ny 10001
+61,FashionHub,,"456 Oak Ave, London UK ",,prohibited item weapon,,6034,,,FashionHub,FashionHub,6034,456 oak ave london uk
+62,FashionHub (Official),,"123 MAIN ST, NEW YORK",<p>Gucci Bag 100% AUTHENTIC!!!</p>,COUNTERFEIT!!! Gucci,04/08/2024  ,2952 ,Y,,FashionHub (Official),FashionHub,2952,123 main st new york
+63,fashionhub,,"123 Main St, New York, NY 10001<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,9/25/24,8434-,,,fashionhub,FashionHub,8434,123 main st new york ny 10001<br>
+64,ToyZone🔥,GHOST_3,"789 M.G Road, Bangalore, India<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,2024-09-25,2119,YES,,ToyZone,ToyZone,2119,789 mg rd bangalore india<br>
+65,HomeEssentials**,,"456 Oak Ave, London UK<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,1/10/24,4240-,NO,,HomeEssentials,HomeEssentials,4240,456 oak ave london uk<br>
+66,fashionhub,GHOST_2,"123 Main St Apt 4B, NY  ",Gucci Bag - Inspired   ,Late Shipment - 15 days,11/8/24,2664*,,,fashionhub,FashionHub,2664,123 main st apt 4b ny
+67,FashionHub,,"123 Main St, New York, NY 10001  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,10/10/2024  ,3088-,0,,FashionHub,FashionHub,3088,123 main st new york ny 10001
+68,GADGETWORLD,GHOST_1,"123 Main St, New York, NY 10001<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,FAKE REVIEWS!!!,07/25/2024,8108-,,,GADGETWORLD,GadgetWorld,8108,123 main st new york ny 10001<br>
+69,Home-Essentials,,"456 Oak Ave, London UK  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,,1405,YES,,Home-Essentials,HomeEssentials,1405,456 oak ave london uk
+70,FASHIONHUB,,789 MG Road Bangalore  ,,Counterfeit - Gucci Bag,2024-04-19,4381,yes,,FASHIONHUB,FashionHub,4381,789 mg rd bangalore
+71,BookNest™,,"456 Oak Ave, London UK
+",Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,2/3/24,2279,n,,BookNest,BookNest,2279,456 oak ave london uk
+72,FASHIONHUB,,789 MG Road Bangalore ,,Prohibited Item: Weapon Replica,2024-09-26,7685*,1,,FASHIONHUB,FashionHub,7685,789 mg rd bangalore
+73,TOYZONE,,"789 MG Road Bangalore
+",Gucci Bag (Authentic) - $10???,Counterfeit - Gucci Bag,,4583,1,,TOYZONE,ToyZone,4583,789 mg rd bangalore
+74,HomeEssentials,GHOST_5,"123 MAIN ST, NEW YORK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,,6851,,,HomeEssentials,HomeEssentials,6851,123 main st new york
+75,HomeEssentials,,"123 Main St Apt 4B, NY  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,01/03/2024  ,5845*,NO,,HomeEssentials,HomeEssentials,5845,123 main st apt 4b ny
+76,Home-Essentials,,"123 Main St Apt 4B, NY
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,,1742*,YES,,Home-Essentials,HomeEssentials,1742,123 main st apt 4b ny
+77,FASHIONHUB,,"123 Main St, New York, NY 10001 ",Gucci Bag (Authentic) - $10???,  ,07/11/2024,9169 ,Y,,FASHIONHUB,FashionHub,9169,123 main st new york ny 10001
+78,FashionHub,GHOST_2,"789 M.G Road, Bangalore, India ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,2024-08-17,5161 ,,,FashionHub,FashionHub,5161,789 mg rd bangalore india
+79,Fashion Hub,,"123 Main St, New York, NY 10001  ",Gucci Bag - Inspired   ,LATE SHIPMENT,2024-06-16,6219,Yes,,Fashion Hub,FashionHub,6219,123 main st new york ny 10001
+80, FashionHub,GHOST_2,123 Main Street NY 10001  ,Gucci Bag (Authentic) - $10???,late shipment 15days,2024-06-17,3314,Yes,,FashionHub,FashionHub,3314,123 main st ny 10001
+81,HOMEESSENTIALS,,"123 Main St Apt 4B, NY",Gucci Bag (Authentic) - $10???,counterfeit gucci,2/8/24,8160,No,,HOMEESSENTIALS,HomeEssentials,8160,123 main st apt 4b ny
+82,Home Essentials,,"123 Main St Apt 4B, NY
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,2/11/24,9039 ,NO,,Home Essentials,HomeEssentials,9039,123 main st apt 4b ny
+83,HomeEssentials™,GHOST_5,"123 MAIN ST, NEW YORK  ",Gucci Bag (Authentic) - $10???,FAKE REVIEWS!!!,10/2/24,4554*,1,,HomeEssentials,HomeEssentials,4554,123 main st new york
+84,FashionHub (Official),,"123 Main St Apt 4B, NY ",  gucci bag - replica 1:1  ,prohibited item weapon,,2484 ,,,FashionHub (Official),FashionHub,2484,123 main st apt 4b ny
+85,G@adgetWorld!!!,,123 Main St. New York 10001 ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,06/26/2024,1052-,Yes,,GaadgetWorld,GadgetWorld,1052,123 main st new york 10001
+86,BookNest - Best Deals,,"123 MAIN ST, NEW YORK",  gucci bag - replica 1:1  ,Counterfeit - Gucci Bag,05/23/2024,2344,,,BookNest,BookNest,2344,123 main st new york
+87,Home Essentials,,456 Oak Avenue London ,  gucci bag - replica 1:1  ,Fake Review Manipulation,2024-04-18,8343-,n,,Home Essentials,HomeEssentials,8343,456 oak ave london
+88,BOOKNEST,GHOST_4,"123 MAIN ST, NEW YORK<br>",,,11/18/24,7850-,1,,BOOKNEST,BookNest,7850,123 main st new york<br>
+89,HOMEESSENTIALS,GHOST_5,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,,10/03/2024  ,3005*,YES,,HOMEESSENTIALS,HomeEssentials,3005,456 oak ave london<br>
+90,Book Nest,,"123 MAIN ST, NEW YORK",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,01-01-2024,9061 ,,,Book Nest,BookNest,9061,123 main st new york
+91,ToyZone!!!,,"123 MAIN ST, NEW YORK<br>",Gucci Bag - Inspired   ,LATE SHIPMENT,,1093 ,0,,ToyZone,ToyZone,1093,123 main st new york<br>
+92,HomeEssentials™,GHOST_5,"123 MAIN ST, NEW YORK<br>",  gucci bag - replica 1:1  ,LATE SHIPMENT,06-05-2024,7643 ,NO,,HomeEssentials,HomeEssentials,7643,123 main st new york<br>
+93,ToyZone Official,,"789 M.G Road, Bangalore, India",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,2024-02-19,8099*,NO,,ToyZone Official,ToyZone,8099,789 mg rd bangalore india
+94, GadgetWorld,,"123 Main St Apt 4B, NY",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,,3534*,No,,GadgetWorld,GadgetWorld,3534,123 main st apt 4b ny
+95,FashionHub,GHOST_2,"456 Oak Avenue London
+",  gucci bag - replica 1:1  ,Late Shipment - 15 days,10-10-2024,7291,0,,FashionHub,FashionHub,7291,456 oak ave london
+96,FashionHub,,"123 Main St, New York, NY 10001",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,2024-08-07,1525*,,,FashionHub,FashionHub,1525,123 main st new york ny 10001
+97,GadgetWorld ,,"789 M.G Road, Bangalore, India  ",,Counterfeit - Gucci Bag,04/23/2024,6502 ,NO,,GadgetWorld,GadgetWorld,6502,789 mg rd bangalore india
+98,HomeEssentials,,123 Main St. New York 10001,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,2024-08-19,6727-,Yes,,HomeEssentials,HomeEssentials,6727,123 main st new york 10001
+99,FASHIONHUB,GHOST_2,"789 M.G Road, Bangalore, India<br>",  gucci bag - replica 1:1  ,LATE SHIPMENT,9/23/24,1164,YES,,FASHIONHUB,FashionHub,1164,789 mg rd bangalore india<br>
+100,TOYZONE,,"123 MAIN ST, NEW YORK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,late shipment 15days,,9279,YES,,TOYZONE,ToyZone,9279,123 main st new york
+101,HomeEssentials**,,123 Main Street NY 10001 ,  gucci bag - replica 1:1  ,Fake Review Manipulation,7/13/24,7758,Y,,HomeEssentials,HomeEssentials,7758,123 main st ny 10001
+102,ToyZone Official,,456 Oak Avenue London,Gucci Bag (Authentic) - $10???,,10/16/24,6033 ,Yes,,ToyZone Official,ToyZone,6033,456 oak ave london
+103,GADGETWORLD,,"123 Main St, New York, NY 10001 ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,counterfeit gucci,,4075*,NO,,GADGETWORLD,GadgetWorld,4075,123 main st new york ny 10001
+104, FashionHub,GHOST_2,"123 Main St Apt 4B, NY
+",,,,5190,,,FashionHub,FashionHub,5190,123 main st apt 4b ny
+105,FASHIONHUB,,123 Main Street NY 10001 ,,late shipment 15days,4/17/24,8212,n,,FASHIONHUB,FashionHub,8212,123 main st ny 10001
+106,FashionHub.,,"123 MAIN ST, NEW YORK
+",Gucci Bag - Inspired   ,FAKE REVIEWS!!!,01/06/2024  ,7274,No,,FashionHub,FashionHub,7274,123 main st new york
+107,Home Essentials,,"456 Oak Ave, London UK",  gucci bag - replica 1:1  ,counterfeit gucci,2024-02-24,9479 ,Y,,Home Essentials,HomeEssentials,9479,456 oak ave london uk
+108,Gadget World,,"123 Main St Apt 4B, NY  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,05/16/2024,4490*,1,,Gadget World,GadgetWorld,4490,123 main st apt 4b ny
+109,HomeEssentials,,"456 Oak Ave, London UK",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,FAKE REVIEWS!!!,2024-06-01,5341*,NO,,HomeEssentials,HomeEssentials,5341,456 oak ave london uk
+110,GADGETWORLD,GHOST_1,"456 Oak Avenue London
+",Gucci Bag - Inspired   ,fake review,05-07-2024,6983*,YES,,GADGETWORLD,GadgetWorld,6983,456 oak ave london
+111,GADGETWORLD,,123 Main Street NY 10001,  gucci bag - replica 1:1  ,,2024-10-11,5397-,1,,GADGETWORLD,GadgetWorld,5397,123 main st ny 10001
+112,Gadget-World,,"123 Main St, New York, NY 10001  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,COUNTERFEIT!!! Gucci,10/20/2024,5089,1,,Gadget-World,GadgetWorld,5089,123 main st new york ny 10001
+113,GadgetWorld,,123 Main St. New York 10001 ,  gucci bag - replica 1:1  ,late shipment 15days,2024-05-21,2574-,1,,GadgetWorld,GadgetWorld,2574,123 main st new york 10001
+114,HomeEssentials,,"123 Main St, New York, NY 10001 ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,01/07/2024,9773,NO,,HomeEssentials,HomeEssentials,9773,123 main st new york ny 10001
+115,Book Nest,,"123 MAIN ST, NEW YORK  ",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,8/8/24,1174-,0,,Book Nest,BookNest,1174,123 main st new york
+116,fashionhub,,"456 Oak Ave, London UK<br>",Gucci Bag - Inspired   ,,2024-10-16,6657*,n,,fashionhub,FashionHub,6657,456 oak ave london uk<br>
+117,FashionHub💥,,"456 Oak Ave, London UK  ",,Late Shipment - 15 days,9/12/24,1092 ,Y,,FashionHub,FashionHub,1092,456 oak ave london uk
+118,GadgetWorld_1,GHOST_1,789 MG Road Bangalore  ,Gucci Bag (Authentic) - $10???,,21-09-2024,5674*,No,,GadgetWorld_1,GadgetWorld,5674,789 mg rd bangalore
+119,BookNest - Best Deals,,789 MG Road Bangalore  ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,  ,26/05/2024  ,1141 ,1,,BookNest,BookNest,1141,789 mg rd bangalore
+120, FashionHub,,"456 Oak Ave, London UK ",Gucci Bag - Inspired   ,,2024-08-17,9783*,0,,FashionHub,FashionHub,9783,456 oak ave london uk
+121,BookNest!!!,GHOST_4,"123 Main St, New York, NY 10001
+",Gucci Bag (Authentic) - $10???,,18/03/2024  ,8168*,yes,,BookNest,BookNest,8168,123 main st new york ny 10001
+122,HomeEssentials**,,"123 MAIN ST, NEW YORK ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,4/1/24,6685-,1,,HomeEssentials,HomeEssentials,6685,123 main st new york
+123,HomeEssentials™,GHOST_5,"456 Oak Ave, London UK ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,prohibited item weapon,26-07-2024,4250,No,,HomeEssentials,HomeEssentials,4250,456 oak ave london uk
+124,FashionHub,,123 Main Street NY 10001 ,,,10/12/2024,9102,YES,,FashionHub,FashionHub,9102,123 main st ny 10001
+125,BookNest!!!,,"123 MAIN ST, NEW YORK",Gucci Bag - Inspired   ,FAKE REVIEWS!!!,7/12/24,2851 ,0,,BookNest,BookNest,2851,123 main st new york
+126,HomeEssentials**,,"456 Oak Ave, London UK",  gucci bag - replica 1:1  ,Prohibited Item: Weapon Replica,06/10/2024,7591,,,HomeEssentials,HomeEssentials,7591,456 oak ave london uk
+127, FashionHub,GHOST_2,123 Main Street NY 10001 ,Gucci Bag - Inspired   ,counterfeit gucci,1/18/24,4457 ,No,,FashionHub,FashionHub,4457,123 main st ny 10001
+128,ToyZone ,,123 Main St. New York 10001<br>,Gucci Bag - Inspired   ,  ,09-09-2024,8104,,,ToyZone,ToyZone,8104,123 main st new york 10001<br>
+129,BookNest,,"123 Main St Apt 4B, NY<br>",Gucci Bag - Inspired   ,Late Shipment - 15 days,10/08/2024  ,1749*,Y,,BookNest,BookNest,1749,123 main st apt 4b ny<br>
+130,GadgetWorld,,789 MG Road Bangalore,<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,04/02/2024,2040*,,,GadgetWorld,GadgetWorld,2040,789 mg rd bangalore
+131,HomeEssentials™,,"456 Oak Avenue London
+",  gucci bag - replica 1:1  ,  ,05/09/2024,1992,0,,HomeEssentials,HomeEssentials,1992,456 oak ave london
+132,ToyZone ,GHOST_3,"123 Main St, New York, NY 10001<br>",,late shipment 15days,9/20/24,2174 ,n,,ToyZone,ToyZone,2174,123 main st new york ny 10001<br>
+133,Home Essentials,,123 Main St. New York 10001,  gucci bag - replica 1:1  ,counterfeit gucci,11/5/24,7186-,0,,Home Essentials,HomeEssentials,7186,123 main st new york 10001
+134,TOYZONE,,123 Main St. New York 10001 ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,09/22/2024,9954,No,,TOYZONE,ToyZone,9954,123 main st new york 10001
+135,BookNest - Best Deals,,"456 Oak Ave, London UK ",  gucci bag - replica 1:1  ,  ,2024-04-21,2933-,,,BookNest,BookNest,2933,456 oak ave london uk
+136,ToyZone,,"123 Main St, New York, NY 10001 ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,05/23/2024,1656-,No,,ToyZone,ToyZone,1656,123 main st new york ny 10001
+137,FASHIONHUB,GHOST_2,123 Main St. New York 10001<br>,Gucci Bag (Authentic) - $10???,fake review,01/08/2024,8193,yes,,FASHIONHUB,FashionHub,8193,123 main st new york 10001<br>
+138,GadgetWorld ,GHOST_1,"123 Main St, New York, NY 10001  ",,LATE SHIPMENT,5/8/24,3216,1,,GadgetWorld,GadgetWorld,3216,123 main st new york ny 10001
+139,BookNest - Best Deals,,"123 Main St, New York, NY 10001",  gucci bag - replica 1:1  ,  ,2024-04-26,6707 ,yes,,BookNest,BookNest,6707,123 main st new york ny 10001
+140,ToyZone🔥,,"123 MAIN ST, NEW YORK
+",,fake review,,8203,Yes,,ToyZone,ToyZone,8203,123 main st new york
+141,GADGETWORLD,GHOST_1,"789 M.G Road, Bangalore, India<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,5/5/24,3442*,Y,,GADGETWORLD,GadgetWorld,3442,789 mg rd bangalore india<br>
+142,BookNest™,,456 Oak Avenue London<br>,  gucci bag - replica 1:1  ,late shipment 15days,2024-10-09,7257,1,,BookNest,BookNest,7257,456 oak ave london<br>
+143,FashionHub,,789 MG Road Bangalore ,Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,,6977 ,Y,,FashionHub,FashionHub,6977,789 mg rd bangalore
+144,BookNest - Best Deals,,123 Main Street NY 10001 ,,,26/05/2024  ,9258*,Yes,,BookNest,BookNest,9258,123 main st ny 10001
+145,Home Essentials,,"456 Oak Ave, London UK<br>",,  ,,1381-,,,Home Essentials,HomeEssentials,1381,456 oak ave london uk<br>
+146,HomeEssentials,GHOST_5,"456 Oak Ave, London UK",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,11/17/24,7326,Yes,,HomeEssentials,HomeEssentials,7326,456 oak ave london uk
+147,HomeEssentials™,,"123 Main St Apt 4B, NY ",Gucci Bag - Inspired   ,,07/06/2024,6310-,YES,,HomeEssentials,HomeEssentials,6310,123 main st apt 4b ny
+148,Gadget World,,"789 M.G Road, Bangalore, India ",Gucci Bag - Inspired   ,LATE SHIPMENT,7/6/24,9364-,,,Gadget World,GadgetWorld,9364,789 mg rd bangalore india
+149,Home-Essentials,GHOST_5,"789 M.G Road, Bangalore, India",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,07/08/2024  ,4830*,No,,Home-Essentials,HomeEssentials,4830,789 mg rd bangalore india
+150,GadgetWorld,,"456 Oak Avenue London
+",Gucci Bag (Authentic) - $10???,prohibited item weapon,,6069-,Y,,GadgetWorld,GadgetWorld,6069,456 oak ave london
+151,BookNest!!!,,"123 Main Street NY 10001
+",  gucci bag - replica 1:1  ,Late Shipment - 15 days,27-08-2024,1690*,,,BookNest,BookNest,1690,123 main st ny 10001
+152,BOOKNEST,,"123 Main St, New York, NY 10001",Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,06/14/2024,7512*,1,,BOOKNEST,BookNest,7512,123 main st new york ny 10001
+153,BookNest - Best Deals,,"123 Main St, New York, NY 10001<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,COUNTERFEIT!!! Gucci,2024-06-05,9320,,,BookNest,BookNest,9320,123 main st new york ny 10001<br>
+154,FASHIONHUB,GHOST_2,"789 MG Road Bangalore
+",Gucci Bag - Inspired   ,Late Shipment - 15 days,2024-10-02,6435*,NO,,FASHIONHUB,FashionHub,6435,789 mg rd bangalore
+155,GadgetWorld,GHOST_1,"123 Main St Apt 4B, NY",,counterfeit gucci,28-07-2024,9954,YES,,GadgetWorld,GadgetWorld,9954,123 main st apt 4b ny
+156,ToyZone!!!,,123 Main Street NY 10001 ,Gucci Bag (Authentic) - $10???,fake review,7/20/24,9523*,Y,,ToyZone,ToyZone,9523,123 main st ny 10001
+157,ToyZone🔥,,"123 Main St. New York 10001
+",Gucci Bag (Authentic) - $10???,LATE SHIPMENT,2024-08-28,6447*,,,ToyZone,ToyZone,6447,123 main st new york 10001
+158,HOMEESSENTIALS,,123 Main St. New York 10001  ,,counterfeit gucci,04/06/2024,9388 ,0,,HOMEESSENTIALS,HomeEssentials,9388,123 main st new york 10001
+159,TOYZONE,,"123 Main St, New York, NY 10001<br>",,  ,2024-09-10,8337-,Yes,,TOYZONE,ToyZone,8337,123 main st new york ny 10001<br>
+160,Toy Zone,,456 Oak Avenue London ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,,1557 ,No,,Toy Zone,ToyZone,1557,456 oak ave london
+161,ToyZone!!!,,"789 M.G Road, Bangalore, India  ",Gucci Bag - Inspired   ,  ,2024-06-04,8918*,No,,ToyZone,ToyZone,8918,789 mg rd bangalore india
+162,GadgetWorld,,"456 Oak Ave, London UK
+",Gucci Bag (Authentic) - $10???,  ,,4567,,,GadgetWorld,GadgetWorld,4567,456 oak ave london uk
+163,HOMEESSENTIALS,,"123 Main St, New York, NY 10001  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,,7723*,Yes,,HOMEESSENTIALS,HomeEssentials,7723,123 main st new york ny 10001
+164,ToyZone🔥,,123 Main Street NY 10001<br>,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,05/07/2024  ,8390 ,No,,ToyZone,ToyZone,8390,123 main st ny 10001<br>
+165,HOMEESSENTIALS,,"456 Oak Ave, London UK
+",  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,,4514-,,,HOMEESSENTIALS,HomeEssentials,4514,456 oak ave london uk
+166,BookNest,,123 Main Street NY 10001 ,,FAKE REVIEWS!!!,08/07/2024  ,6701,No,,BookNest,BookNest,6701,123 main st ny 10001
+167,FASHIONHUB,GHOST_2,"123 MAIN ST, NEW YORK
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,fake review,,8041*,NO,,FASHIONHUB,FashionHub,8041,123 main st new york
+168,ToyZone Official,GHOST_3,"456 Oak Ave, London UK<br>",Gucci Bag - Inspired   ,Counterfeit - Gucci Bag,2024-01-15,7340*,Y,,ToyZone Official,ToyZone,7340,456 oak ave london uk<br>
+169,FASHIONHUB,,"789 M.G Road, Bangalore, India",  gucci bag - replica 1:1  ,LATE SHIPMENT,03/02/2024,7927,yes,,FASHIONHUB,FashionHub,7927,789 mg rd bangalore india
+170,GadgetWorld_1,,789 MG Road Bangalore,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,01/22/2024,5510 ,No,,GadgetWorld_1,GadgetWorld,5510,789 mg rd bangalore
+171,ToyZone🔥,GHOST_3,"123 Main St, New York, NY 10001
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,11/01/2024  ,6670-,,,ToyZone,ToyZone,6670,123 main st new york ny 10001
+172,Toy Zone,GHOST_3,789 MG Road Bangalore<br>,Gucci Bag - Inspired   ,late shipment 15days,2024-10-09,8345 ,,,Toy Zone,ToyZone,8345,789 mg rd bangalore<br>
+173,HomeEssentials,,456 Oak Avenue London<br>,,FAKE REVIEWS!!!,17-03-2024,2014*,YES,,HomeEssentials,HomeEssentials,2014,456 oak ave london<br>
+174,BookNest™,GHOST_4,"123 MAIN ST, NEW YORK
+",  gucci bag - replica 1:1  ,LATE SHIPMENT,,9521,Y,,BookNest,BookNest,9521,123 main st new york
+175,BookNest,,"123 MAIN ST, NEW YORK ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,28-09-2024,3239-,No,,BookNest,BookNest,3239,123 main st new york
+176,ToyZone,,"456 Oak Avenue London
+",  gucci bag - replica 1:1  ,counterfeit gucci,6/24/24,1472 ,yes,,ToyZone,ToyZone,1472,456 oak ave london
+177,Book Nest,GHOST_4,123 Main Street NY 10001 ,  gucci bag - replica 1:1  ,prohibited item weapon,2/12/24,7047*,Y,,Book Nest,BookNest,7047,123 main st ny 10001
+178,ToyZone,,456 Oak Avenue London  ,,  ,12-10-2024,5341,No,,ToyZone,ToyZone,5341,456 oak ave london
+179,BookNest™,GHOST_4,"123 Main St, New York, NY 10001<br>",Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,14/04/2024  ,1149*,NO,,BookNest,BookNest,1149,123 main st new york ny 10001<br>
+180,GadgetWorld,,"123 Main St, New York, NY 10001<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,FAKE REVIEWS!!!,,2865,Yes,,GadgetWorld,GadgetWorld,2865,123 main st new york ny 10001<br>
+181,ToyZone Official,,789 MG Road Bangalore<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,counterfeit gucci,15/05/2024  ,1214,n,,ToyZone Official,ToyZone,1214,789 mg rd bangalore<br>
+182,ToyZone ,GHOST_3,"123 Main St, New York, NY 10001  ",  gucci bag - replica 1:1  ,Prohibited Item: Weapon Replica,2024-08-20,7986 ,0,,ToyZone,ToyZone,7986,123 main st new york ny 10001
+183,HomeEssentials™,,"123 Main St Apt 4B, NY ",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,17-02-2024,3452,YES,,HomeEssentials,HomeEssentials,3452,123 main st apt 4b ny
+184,HomeEssentials™,,"456 Oak Avenue London
+",Gucci Bag (Authentic) - $10???,late shipment 15days,09/11/2024,1720 ,,,HomeEssentials,HomeEssentials,1720,456 oak ave london
+185,HomeEssentials™,,"123 Main St. New York 10001
+",,Fake Review Manipulation,2024-03-08,6237 ,Y,,HomeEssentials,HomeEssentials,6237,123 main st new york 10001
+186,<b>GadgetWorld</b>,,"123 Main St Apt 4B, NY ",Gucci Bag (Authentic) - $10???,Prohibited Item - (weapon replica),06/02/2024,3677*,1,,GadgetWorld,GadgetWorld,3677,123 main st apt 4b ny
+187,BookNest - Best Deals,,"123 Main St, New York, NY 10001<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,2024-08-22,9716*,No,,BookNest,BookNest,9716,123 main st new york ny 10001<br>
+188,ToyZone!!!,GHOST_3,"456 Oak Ave, London UK",Gucci Bag - Inspired   ,fake review,22/08/2024  ,8933 ,YES,,ToyZone,ToyZone,8933,456 oak ave london uk
+189,HomeEssentials**,,"123 Main St Apt 4B, NY<br>",  gucci bag - replica 1:1  ,,,6027 ,0,,HomeEssentials,HomeEssentials,6027,123 main st apt 4b ny<br>
+190,Book Nest,,"123 Main St Apt 4B, NY ",Gucci Bag - Inspired   ,LATE SHIPMENT,12/8/24,8754 ,1,,Book Nest,BookNest,8754,123 main st apt 4b ny
+191,<b>GadgetWorld</b>,,"123 Main St, New York, NY 10001",Gucci Bag (Authentic) - $10???,late shipment 15days,07/09/2024,5911*,Yes,,GadgetWorld,GadgetWorld,5911,123 main st new york ny 10001
+192,FashionHub (Official),,"123 MAIN ST, NEW YORK
+",,Prohibited Item - (weapon replica),,6758,NO,,FashionHub (Official),FashionHub,6758,123 main st new york
+193,FASHIONHUB,,"123 MAIN ST, NEW YORK ",Gucci Bag - Inspired   ,counterfeit gucci,13-06-2024,7117*,0,,FASHIONHUB,FashionHub,7117,123 main st new york
+194,FashionHub,,"123 Main St, New York, NY 10001
+",Gucci Bag - Inspired   ,prohibited item weapon,13-01-2024,7577,0,,FashionHub,FashionHub,7577,123 main st new york ny 10001
+195,GadgetWorld,,"789 MG Road Bangalore
+",  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,2024-06-16,7418,YES,,GadgetWorld,GadgetWorld,7418,789 mg rd bangalore
+196,BookNest,,123 Main St. New York 10001 ,,Fake Review Manipulation,,9718*,Y,,BookNest,BookNest,9718,123 main st new york 10001
+197,Gadget World,,"456 Oak Ave, London UK  ",Gucci Bag (Authentic) - $10???,,08-02-2024,8526 ,0,,Gadget World,GadgetWorld,8526,456 oak ave london uk
+198,Book Nest,,"456 Oak Ave, London UK ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,01-10-2024,8178 ,YES,,Book Nest,BookNest,8178,456 oak ave london uk
+199,Gadget World,,"123 Main St, New York, NY 10001 ",Gucci Bag - Inspired   ,LATE SHIPMENT,08-10-2024,3457 ,0,,Gadget World,GadgetWorld,3457,123 main st new york ny 10001
+200,BookNest™,,"123 Main St Apt 4B, NY  ",Gucci Bag (Authentic) - $10???,,2024-09-23,4919-,NO,,BookNest,BookNest,4919,123 main st apt 4b ny
+201,FashionHub💥,,"456 Oak Avenue London
+",Gucci Bag - Inspired   ,Late Shipment - 15 days,,8804 ,Yes,,FashionHub,FashionHub,8804,456 oak ave london
+202,BookNest™,GHOST_4,789 MG Road Bangalore<br>,,LATE SHIPMENT,5/28/24,3070*,,,BookNest,BookNest,3070,789 mg rd bangalore<br>
+203,BookNest - Best Deals,,"789 M.G Road, Bangalore, India
+",Gucci Bag (Authentic) - $10???,LATE SHIPMENT,10-04-2024,6927-,No,,BookNest,BookNest,6927,789 mg rd bangalore india
+204,BookNest!!!,GHOST_4,"456 Oak Avenue London
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,03/09/2024,7719 ,Yes,,BookNest,BookNest,7719,456 oak ave london
+205,FashionHub (Official),,"123 Main St, New York, NY 10001 ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item - (weapon replica),,2109-,Yes,,FashionHub (Official),FashionHub,2109,123 main st new york ny 10001
+206,FASHIONHUB,,"789 M.G Road, Bangalore, India  ",,Late Shipment - 15 days,28-09-2024,7160*,YES,,FASHIONHUB,FashionHub,7160,789 mg rd bangalore india
+207,BookNest™,,"456 Oak Ave, London UK  ",,Prohibited Item: Weapon Replica,,3159*,Y,,BookNest,BookNest,3159,456 oak ave london uk
+208,FashionHub,GHOST_2,"456 Oak Ave, London UK",,prohibited item weapon,07/10/2024,4337*,yes,,FashionHub,FashionHub,4337,456 oak ave london uk
+209,HomeEssentials**,GHOST_5,789 MG Road Bangalore<br>,  gucci bag - replica 1:1  ,,04/01/2024,4134 ,n,,HomeEssentials,HomeEssentials,4134,789 mg rd bangalore<br>
+210,Toy Zone,GHOST_3,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,FAKE REVIEWS!!!,,8200 ,NO,,Toy Zone,ToyZone,8200,456 oak ave london<br>
+211,FASHIONHUB,,123 Main St. New York 10001,  gucci bag - replica 1:1  ,Late Shipment - 15 days,10/10/2024,5628-,Y,,FASHIONHUB,FashionHub,5628,123 main st new york 10001
+212,ToyZone Official,,"123 Main Street NY 10001
+",  gucci bag - replica 1:1  ,,12/24/24,4688-,Yes,,ToyZone Official,ToyZone,4688,123 main st ny 10001
+213,FashionHub (Official),GHOST_2,"789 M.G Road, Bangalore, India ",  gucci bag - replica 1:1  ,prohibited item weapon,,4317-,NO,,FashionHub (Official),FashionHub,4317,789 mg rd bangalore india
+214,BookNest - Best Deals,,"456 Oak Ave, London UK ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,13/07/2024  ,2728-,Y,,BookNest,BookNest,2728,456 oak ave london uk
+215,GadgetWorld ,,789 MG Road Bangalore ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,prohibited item weapon,2024-04-16,5634 ,Y,,GadgetWorld,GadgetWorld,5634,789 mg rd bangalore
+216,Home Essentials,,456 Oak Avenue London,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,FAKE REVIEWS!!!,,7185,No,,Home Essentials,HomeEssentials,7185,456 oak ave london
+217,Book Nest,GHOST_4,"789 M.G Road, Bangalore, India  ",Gucci Bag - Inspired   ,late shipment 15days,2024-03-07,3851,Y,,Book Nest,BookNest,3851,789 mg rd bangalore india
+218,<b>GadgetWorld</b>,,"123 Main St, New York, NY 10001",Gucci Bag - Inspired   ,,,7931 ,No,,GadgetWorld,GadgetWorld,7931,123 main st new york ny 10001
+219,GadgetWorld ,,456 Oak Avenue London  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,2024-02-12,4216 ,No,,GadgetWorld,GadgetWorld,4216,456 oak ave london
+220,Book Nest,,123 Main Street NY 10001 ,Gucci Bag (Authentic) - $10???,  ,,9399*,No,,Book Nest,BookNest,9399,123 main st ny 10001
+221,HomeEssentials™,,"123 Main St, New York, NY 10001
+",Gucci Bag (Authentic) - $10???,Prohibited Item - (weapon replica),23/05/2024  ,8556,Yes,,HomeEssentials,HomeEssentials,8556,123 main st new york ny 10001
+222,ToyZone!!!,,"123 MAIN ST, NEW YORK<br>",  gucci bag - replica 1:1  ,,,9865 ,Y,,ToyZone,ToyZone,9865,123 main st new york<br>
+223,<b>GadgetWorld</b>,,123 Main St. New York 10001<br>,Gucci Bag (Authentic) - $10???,COUNTERFEIT!!! Gucci,2024-03-24,5490-,,,GadgetWorld,GadgetWorld,5490,123 main st new york 10001<br>
+224,Fashion Hub,GHOST_2,789 MG Road Bangalore,Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,,6244 ,Yes,,Fashion Hub,FashionHub,6244,789 mg rd bangalore
+225,BookNest - Best Deals,,456 Oak Avenue London ,Gucci Bag - Inspired   ,counterfeit gucci,2024-04-14,5727-,yes,,BookNest,BookNest,5727,456 oak ave london
+226,ToyZone🔥,GHOST_3,"123 Main Street NY 10001
+",Gucci Bag - Inspired   ,Prohibited Item - (weapon replica),,7101 ,YES,,ToyZone,ToyZone,7101,123 main st ny 10001
+227,Home-Essentials,GHOST_5,"456 Oak Ave, London UK<br>",  gucci bag - replica 1:1  ,late shipment 15days,14-09-2024,9934 ,NO,,Home-Essentials,HomeEssentials,9934,456 oak ave london uk<br>
+228,HomeEssentials**,,"789 M.G Road, Bangalore, India ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item - (weapon replica),9/13/24,5741-,,,HomeEssentials,HomeEssentials,5741,789 mg rd bangalore india
+229,Fashion Hub,,123 Main Street NY 10001  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,14-06-2024,3103*,,,Fashion Hub,FashionHub,3103,123 main st ny 10001
+230,ToyZone!!!,,"789 M.G Road, Bangalore, India
+",,Late Shipment - 15 days,04/05/2024,3070-,Y,,ToyZone,ToyZone,3070,789 mg rd bangalore india
+231,TOYZONE,GHOST_3,"123 MAIN ST, NEW YORK  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,COUNTERFEIT!!! Gucci,09/18/2024,1784,No,,TOYZONE,ToyZone,1784,123 main st new york
+232,Home-Essentials,,123 Main Street NY 10001,  gucci bag - replica 1:1  ,prohibited item weapon,02/08/2024  ,6758 ,YES,,Home-Essentials,HomeEssentials,6758,123 main st ny 10001
+233,GADGETWORLD,,"789 M.G Road, Bangalore, India ",  gucci bag - replica 1:1  ,,06/06/2024  ,5455,,,GADGETWORLD,GadgetWorld,5455,789 mg rd bangalore india
+234,ToyZone!!!,GHOST_3,"123 MAIN ST, NEW YORK<br>",Gucci Bag - Inspired   ,late shipment 15days,,6115 ,No,,ToyZone,ToyZone,6115,123 main st new york<br>
+235,FashionHub (Official),GHOST_2,"123 MAIN ST, NEW YORK<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,07/20/2024,6538*,No,,FashionHub (Official),FashionHub,6538,123 main st new york<br>
+236,G@adgetWorld!!!,,123 Main St. New York 10001 ,Gucci Bag - Inspired   ,,2024-07-13,5602,,,GaadgetWorld,GadgetWorld,5602,123 main st new york 10001
+237,ToyZone ,,"123 Main St, New York, NY 10001 ",,Fake Review Manipulation,2024-10-01,8956,,,ToyZone,ToyZone,8956,123 main st new york ny 10001
+238,Gadget-World,,456 Oak Avenue London ,Gucci Bag - Inspired   ,Counterfeit - Gucci Bag,09/24/2024,4068,,,Gadget-World,GadgetWorld,4068,456 oak ave london
+239,ToyZone🔥,,123 Main Street NY 10001<br>,,fake review,3/17/24,4498-,Yes,,ToyZone,ToyZone,4498,123 main st ny 10001<br>
+240,ToyZone!!!,,"456 Oak Ave, London UK<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,prohibited item weapon,11/27/24,8387-,,,ToyZone,ToyZone,8387,456 oak ave london uk<br>
+241, FashionHub,,"456 Oak Ave, London UK<br>",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,,4941,No,,FashionHub,FashionHub,4941,456 oak ave london uk<br>
+242,ToyZone ,,"123 MAIN ST, NEW YORK ",Gucci Bag (Authentic) - $10???,fake review,04-09-2024,8276*,,,ToyZone,ToyZone,8276,123 main st new york
+243,FASHIONHUB,GHOST_2,789 MG Road Bangalore ,Gucci Bag - Inspired   ,counterfeit gucci,2024-06-06,7281 ,NO,,FASHIONHUB,FashionHub,7281,789 mg rd bangalore
+244,BOOKNEST,,"123 Main St Apt 4B, NY",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,25-02-2024,4654*,YES,,BOOKNEST,BookNest,4654,123 main st apt 4b ny
+245,ToyZone!!!,,"789 M.G Road, Bangalore, India<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,COUNTERFEIT!!! Gucci,18-02-2024,2603 ,,,ToyZone,ToyZone,2603,789 mg rd bangalore india<br>
+246,ToyZone🔥,,"456 Oak Ave, London UK ",,,6/13/24,7517,Y,,ToyZone,ToyZone,7517,456 oak ave london uk
+247,BookNest,,123 Main Street NY 10001  ,Gucci Bag (Authentic) - $10???,Prohibited Item - (weapon replica),,4212-,Yes,,BookNest,BookNest,4212,123 main st ny 10001
+248,BookNest™,,"123 Main St. New York 10001
+",  gucci bag - replica 1:1  ,LATE SHIPMENT,5/5/24,8490 ,NO,,BookNest,BookNest,8490,123 main st new york 10001
+249,G@adgetWorld!!!,,"123 Main St Apt 4B, NY
+",Gucci Bag (Authentic) - $10???,,04/21/2024,8415-,,,GaadgetWorld,GadgetWorld,8415,123 main st apt 4b ny
+250,Home-Essentials,GHOST_5,"123 Main St Apt 4B, NY ",  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,13-06-2024,9445-,Y,,Home-Essentials,HomeEssentials,9445,123 main st apt 4b ny
+251,Home Essentials,,"789 MG Road Bangalore
+",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,12/23/24,4154*,No,,Home Essentials,HomeEssentials,4154,789 mg rd bangalore
+252,FashionHub.,,123 Main Street NY 10001  ,  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,9/12/24,3434-,Yes,,FashionHub,FashionHub,3434,123 main st ny 10001
+253,ToyZone ,,"456 Oak Ave, London UK
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,FAKE REVIEWS!!!,04-05-2024,6534-,Y,,ToyZone,ToyZone,6534,456 oak ave london uk
+254,BOOKNEST,GHOST_4,123 Main Street NY 10001<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,,1902 ,No,,BOOKNEST,BookNest,1902,123 main st ny 10001<br>
+255,Toy Zone,,"123 Main St Apt 4B, NY  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,,6510,,,Toy Zone,ToyZone,6510,123 main st apt 4b ny
+256,BOOKNEST,,123 Main Street NY 10001<br>,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,,5792,Yes,,BOOKNEST,BookNest,5792,123 main st ny 10001<br>
+257,FashionHub.,,"456 Oak Avenue London
+",Gucci Bag - Inspired   ,Fake Review Manipulation,12/17/24,8002*,Y,,FashionHub,FashionHub,8002,456 oak ave london
+258,fashionhub,,"789 M.G Road, Bangalore, India",,Fake Review Manipulation,04-10-2024,1623-,No,,fashionhub,FashionHub,1623,789 mg rd bangalore india
+259,Book Nest,,"123 Main St, New York, NY 10001 ",,counterfeit gucci,02-09-2024,8316-,Yes,,Book Nest,BookNest,8316,123 main st new york ny 10001
+260,HomeEssentials™,,"123 Main St. New York 10001
+",Gucci Bag (Authentic) - $10???,late shipment 15days,2024-06-17,2976-,1,,HomeEssentials,HomeEssentials,2976,123 main st new york 10001
+261,BookNest™,,"789 MG Road Bangalore
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,03/14/2024,1585 ,,,BookNest,BookNest,1585,789 mg rd bangalore
+262,FASHIONHUB,,"123 Main St Apt 4B, NY",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item - (weapon replica),07/26/2024,9270 ,Y,,FASHIONHUB,FashionHub,9270,123 main st apt 4b ny
+263,Home Essentials,,"456 Oak Ave, London UK
+",Gucci Bag (Authentic) - $10???,prohibited item weapon,05-01-2024,9738*,1,,Home Essentials,HomeEssentials,9738,456 oak ave london uk
+264,ToyZone!!!,,"123 Main St Apt 4B, NY  ",  gucci bag - replica 1:1  ,LATE SHIPMENT,2024-09-10,6262,Yes,,ToyZone,ToyZone,6262,123 main st apt 4b ny
+265,fashionhub,,"123 Main St. New York 10001
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,07-03-2024,1336*,,,fashionhub,FashionHub,1336,123 main st new york 10001
+266,Toy Zone,,123 Main St. New York 10001,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,2024-10-03,5853*,Y,,Toy Zone,ToyZone,5853,123 main st new york 10001
+267,BookNest™,GHOST_4,"789 M.G Road, Bangalore, India<br>",  gucci bag - replica 1:1  ,counterfeit gucci,04-02-2024,7965-,,,BookNest,BookNest,7965,789 mg rd bangalore india<br>
+268,BOOKNEST,GHOST_4,789 MG Road Bangalore ,,LATE SHIPMENT,7/28/24,2036,NO,,BOOKNEST,BookNest,2036,789 mg rd bangalore
+269,TOYZONE,,"123 Main St. New York 10001
+",Gucci Bag - Inspired   ,Prohibited Item - (weapon replica),10/15/24,8401,0,,TOYZONE,ToyZone,8401,123 main st new york 10001
+270,HomeEssentials™,,"123 Main St, New York, NY 10001<br>",  gucci bag - replica 1:1  ,LATE SHIPMENT,,7624 ,yes,,HomeEssentials,HomeEssentials,7624,123 main st new york ny 10001<br>
+271,ToyZone,,"123 Main St Apt 4B, NY ",Gucci Bag - Inspired   ,  ,20/05/2024  ,9601 ,n,,ToyZone,ToyZone,9601,123 main st apt 4b ny
+272,ToyZone!!!,,"123 Main St Apt 4B, NY ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,2024-09-01,1388-,0,,ToyZone,ToyZone,1388,123 main st apt 4b ny
+273,<b>GadgetWorld</b>,,"123 MAIN ST, NEW YORK
+",,Late Shipment - 15 days,,7184,No,,GadgetWorld,GadgetWorld,7184,123 main st new york
+274,fashionhub,,789 MG Road Bangalore  ,Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,02/28/2024,2817,NO,,fashionhub,FashionHub,2817,789 mg rd bangalore
+275,ToyZone ,GHOST_3,123 Main Street NY 10001 ,  gucci bag - replica 1:1  ,Late Shipment - 15 days,07-08-2024,6302,NO,,ToyZone,ToyZone,6302,123 main st ny 10001
+276,FashionHub💥,,"123 Main St Apt 4B, NY
+",Gucci Bag - Inspired   ,,4/12/24,8277 ,,,FashionHub,FashionHub,8277,123 main st apt 4b ny
+277,FashionHub.,GHOST_2,456 Oak Avenue London ,Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,01/01/2024,8414,n,,FashionHub,FashionHub,8414,456 oak ave london
+278,ToyZone🔥,,123 Main Street NY 10001  ,  gucci bag - replica 1:1  ,,2024-01-08,2522,NO,,ToyZone,ToyZone,2522,123 main st ny 10001
+279,Book Nest,,"123 Main St Apt 4B, NY  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,15-03-2024,4843-,Y,,Book Nest,BookNest,4843,123 main st apt 4b ny
+280,fashionhub,,"123 MAIN ST, NEW YORK ",  gucci bag - replica 1:1  ,Counterfeit - Gucci Bag,08-02-2024,9129-,,,fashionhub,FashionHub,9129,123 main st new york
+281, FashionHub,,123 Main St. New York 10001<br>,,Fake Review Manipulation,2024-03-11,9612-,,,FashionHub,FashionHub,9612,123 main st new york 10001<br>
+282,HomeEssentials,,"456 Oak Ave, London UK  ",,COUNTERFEIT!!! Gucci,,9432*,Y,,HomeEssentials,HomeEssentials,9432,456 oak ave london uk
+283,FashionHub (Official),,"123 Main St Apt 4B, NY  ",,Prohibited Item: Weapon Replica,13-05-2024,3159,n,,FashionHub (Official),FashionHub,3159,123 main st apt 4b ny
+284,fashionhub,,"123 Main St Apt 4B, NY ",,Fake Review Manipulation,06/04/2024  ,8540,0,,fashionhub,FashionHub,8540,123 main st apt 4b ny
+285,Gadget World,,"456 Oak Ave, London UK",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,01/18/2024,6244,Yes,,Gadget World,GadgetWorld,6244,456 oak ave london uk
+286,BOOKNEST,,"456 Oak Ave, London UK
+",Gucci Bag - Inspired   ,FAKE REVIEWS!!!,2024-08-25,5752 ,YES,,BOOKNEST,BookNest,5752,456 oak ave london uk
+287,Book Nest,,123 Main St. New York 10001,<p>Gucci Bag 100% AUTHENTIC!!!</p>,COUNTERFEIT!!! Gucci,27/10/2024  ,3084 ,0,,Book Nest,BookNest,3084,123 main st new york 10001
+288,BookNest - Best Deals,,456 Oak Avenue London ,,Counterfeit - Gucci Bag,16/10/2024  ,9230,NO,,BookNest,BookNest,9230,456 oak ave london
+289,FashionHub,GHOST_2,"123 Main St, New York, NY 10001  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,3/13/24,5407,No,,FashionHub,FashionHub,5407,123 main st new york ny 10001
+290,fashionhub,,789 MG Road Bangalore,,prohibited item weapon,08/27/2024,7880,1,,fashionhub,FashionHub,7880,789 mg rd bangalore
+291,Toy Zone,,"123 MAIN ST, NEW YORK<br>",,late shipment 15days,02/09/2024,8897-,yes,,Toy Zone,ToyZone,8897,123 main st new york<br>
+292,<b>GadgetWorld</b>,,789 MG Road Bangalore<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item - (weapon replica),9/7/24,7752 ,0,,GadgetWorld,GadgetWorld,7752,789 mg rd bangalore<br>
+293,FashionHub,GHOST_2,"123 Main Street NY 10001
+",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,,8142,,,FashionHub,FashionHub,8142,123 main st ny 10001
+294,Home-Essentials,,789 MG Road Bangalore<br>,,prohibited item weapon,,2458-,YES,,Home-Essentials,HomeEssentials,2458,789 mg rd bangalore<br>
+295,<b>GadgetWorld</b>,,"123 Main St Apt 4B, NY<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,late shipment 15days,4/23/24,6802-,NO,,GadgetWorld,GadgetWorld,6802,123 main st apt 4b ny<br>
+296,ToyZone ,,123 Main Street NY 10001  ,Gucci Bag - Inspired   ,Counterfeit - Gucci Bag,,4665-,,,ToyZone,ToyZone,4665,123 main st ny 10001
+297,FashionHub (Official),,"123 MAIN ST, NEW YORK",,Late Shipment - 15 days,,8394,,,FashionHub (Official),FashionHub,8394,123 main st new york
+298,GadgetWorld,,"123 MAIN ST, NEW YORK<br>",Gucci Bag (Authentic) - $10???,Prohibited Item: Weapon Replica,07/07/2024  ,5747 ,,,GadgetWorld,GadgetWorld,5747,123 main st new york<br>
+299,GadgetWorld_1,GHOST_1,123 Main St. New York 10001<br>,  gucci bag - replica 1:1  ,Prohibited Item - (weapon replica),24-06-2024,2840 ,YES,,GadgetWorld_1,GadgetWorld,2840,123 main st new york 10001<br>
+300,Home Essentials,,"456 Oak Ave, London UK  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,1/3/24,8875 ,NO,,Home Essentials,HomeEssentials,8875,456 oak ave london uk
+301,GadgetWorld ,GHOST_1,123 Main St. New York 10001  ,  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,22-02-2024,4729-,NO,,GadgetWorld,GadgetWorld,4729,123 main st new york 10001
+302,HomeEssentials™,,456 Oak Avenue London<br>,,Fake Review Manipulation,19-01-2024,9002*,n,,HomeEssentials,HomeEssentials,9002,456 oak ave london<br>
+303,BOOKNEST,,"456 Oak Avenue London
+",Gucci Bag - Inspired   ,LATE SHIPMENT,06-09-2024,4509,Yes,,BOOKNEST,BookNest,4509,456 oak ave london
+304,Home-Essentials,,789 MG Road Bangalore  ,,Late Shipment - 15 days,08-01-2024,5696,n,,Home-Essentials,HomeEssentials,5696,789 mg rd bangalore
+305,HomeEssentials,,"123 MAIN ST, NEW YORK<br>",,Prohibited Item - (weapon replica),27/03/2024  ,4994*,yes,,HomeEssentials,HomeEssentials,4994,123 main st new york<br>
+306, FashionHub,,"789 M.G Road, Bangalore, India<br>",Gucci Bag (Authentic) - $10???,counterfeit gucci,24/08/2024  ,9612-,,,FashionHub,FashionHub,9612,789 mg rd bangalore india<br>
+307,HomeEssentials™,GHOST_5,"123 MAIN ST, NEW YORK  ",,COUNTERFEIT!!! Gucci,7/1/24,1081-,1,,HomeEssentials,HomeEssentials,1081,123 main st new york
+308,GadgetWorld,,456 Oak Avenue London,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,2024-07-17,2644 ,YES,,GadgetWorld,GadgetWorld,2644,456 oak ave london
+309,HomeEssentials**,GHOST_5,"123 Main Street NY 10001
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,prohibited item weapon,10/01/2024  ,6953 ,YES,,HomeEssentials,HomeEssentials,6953,123 main st ny 10001
+310,BookNest,,"123 Main St, New York, NY 10001  ",  gucci bag - replica 1:1  ,Prohibited Item - (weapon replica),12-10-2024,7886-,,,BookNest,BookNest,7886,123 main st new york ny 10001
+311,fashionhub,,"123 MAIN ST, NEW YORK ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,03/10/2024  ,1317,0,,fashionhub,FashionHub,1317,123 main st new york
+312,BookNest,,"789 M.G Road, Bangalore, India<br>",  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,12/08/2024  ,3885-,YES,,BookNest,BookNest,3885,789 mg rd bangalore india<br>
+313,FashionHub💥,,123 Main Street NY 10001<br>,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,2024-10-08,8750,1,,FashionHub,FashionHub,8750,123 main st ny 10001<br>
+314,HomeEssentials**,,123 Main Street NY 10001  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,5/23/24,1368-,,,HomeEssentials,HomeEssentials,1368,123 main st ny 10001
+315,TOYZONE,GHOST_3,"123 Main St Apt 4B, NY ",,,4/23/24,2936*,No,,TOYZONE,ToyZone,2936,123 main st apt 4b ny
+316,GadgetWorld ,,"123 Main St, New York, NY 10001
+",,Counterfeit - Gucci Bag,11-06-2024,9533-,yes,,GadgetWorld,GadgetWorld,9533,123 main st new york ny 10001
+317,HomeEssentials,,"789 MG Road Bangalore
+",Gucci Bag - Inspired   ,Late Shipment - 15 days,9/5/24,6389*,Yes,,HomeEssentials,HomeEssentials,6389,789 mg rd bangalore
+318,FASHIONHUB,,"123 MAIN ST, NEW YORK  ",,Prohibited Item - (weapon replica),27-05-2024,4411*,yes,,FASHIONHUB,FashionHub,4411,123 main st new york
+319,BookNest™,,123 Main St. New York 10001<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,12/1/24,3797,Yes,,BookNest,BookNest,3797,123 main st new york 10001<br>
+320,Home Essentials,,456 Oak Avenue London,Gucci Bag (Authentic) - $10???,late shipment 15days,2024-09-22,8937 ,No,,Home Essentials,HomeEssentials,8937,456 oak ave london
+321,BookNest™,,"789 M.G Road, Bangalore, India",  gucci bag - replica 1:1  ,late shipment 15days,07/10/2024,1986*,,,BookNest,BookNest,1986,789 mg rd bangalore india
+322,FASHIONHUB,,"123 MAIN ST, NEW YORK",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Late Shipment - 15 days,25/04/2024  ,5867*,0,,FASHIONHUB,FashionHub,5867,123 main st new york
+323,FashionHub (Official),,456 Oak Avenue London,  gucci bag - replica 1:1  ,  ,3/12/24,7989,Y,,FashionHub (Official),FashionHub,7989,456 oak ave london
+324,Gadget-World,,"123 Main St Apt 4B, NY  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,7/27/24,8569,Y,,Gadget-World,GadgetWorld,8569,123 main st apt 4b ny
+325,Gadget World,,"789 M.G Road, Bangalore, India  ",,Prohibited Item - (weapon replica),19-08-2024,2162-,NO,,Gadget World,GadgetWorld,2162,789 mg rd bangalore india
+326, FashionHub,GHOST_2,123 Main St. New York 10001,,  ,03-09-2024,8065-,YES,,FashionHub,FashionHub,8065,123 main st new york 10001
+327,Gadget-World,GHOST_1,"123 Main St Apt 4B, NY",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,10/04/2024  ,6030*,,,Gadget-World,GadgetWorld,6030,123 main st apt 4b ny
+328, GadgetWorld,,123 Main St. New York 10001<br>,Gucci Bag - Inspired   ,late shipment 15days,06/03/2024,1599,Y,,GadgetWorld,GadgetWorld,1599,123 main st new york 10001<br>
+329,FashionHub (Official),,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,10/04/2024  ,7543*,Y,,FashionHub (Official),FashionHub,7543,456 oak ave london<br>
+330,TOYZONE,GHOST_3,456 Oak Avenue London  ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Late Shipment - 15 days,17/07/2024  ,1197*,n,,TOYZONE,ToyZone,1197,456 oak ave london
+331,ToyZone🔥,,"123 Main St, New York, NY 10001",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,late shipment 15days,7/25/24,5527 ,,,ToyZone,ToyZone,5527,123 main st new york ny 10001
+332, FashionHub,,"456 Oak Ave, London UK",,,05/06/2024,2277*,,,FashionHub,FashionHub,2277,456 oak ave london uk
+333,TOYZONE,GHOST_3,"789 M.G Road, Bangalore, India<br>",  gucci bag - replica 1:1  ,LATE SHIPMENT,21/02/2024  ,6754-,1,,TOYZONE,ToyZone,6754,789 mg rd bangalore india<br>
+334,HomeEssentials,,"456 Oak Ave, London UK ",Gucci Bag (Authentic) - $10???,  ,2024-01-16,2218*,0,,HomeEssentials,HomeEssentials,2218,456 oak ave london uk
+335,BookNest - Best Deals,,"123 Main St, New York, NY 10001",Gucci Bag - Inspired   ,Counterfeit - Gucci Bag,07/21/2024,6388,,,BookNest,BookNest,6388,123 main st new york ny 10001
+336,ToyZone ,,"789 MG Road Bangalore
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,08/07/2024  ,6470*,0,,ToyZone,ToyZone,6470,789 mg rd bangalore
+337,ToyZone!!!,,456 Oak Avenue London  ,Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,,8734,NO,,ToyZone,ToyZone,8734,456 oak ave london
+338,ToyZone🔥,GHOST_3,"123 MAIN ST, NEW YORK  ",Gucci Bag - Inspired   ,fake review,2024-09-03,4352*,YES,,ToyZone,ToyZone,4352,123 main st new york
+339,Fashion Hub,GHOST_2,"456 Oak Ave, London UK<br>",Gucci Bag - Inspired   ,counterfeit gucci,2024-02-15,3070,YES,,Fashion Hub,FashionHub,3070,456 oak ave london uk<br>
+340,HomeEssentials**,,"123 Main St Apt 4B, NY ",Gucci Bag (Authentic) - $10???,,2024-06-26,5679,,,HomeEssentials,HomeEssentials,5679,123 main st apt 4b ny
+341,Fashion Hub,,123 Main Street NY 10001<br>,Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,28-10-2024,9322-,n,,Fashion Hub,FashionHub,9322,123 main st ny 10001<br>
+342,fashionhub,,123 Main St. New York 10001  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,23/03/2024  ,3375,Yes,,fashionhub,FashionHub,3375,123 main st new york 10001
+343,FASHIONHUB,,"123 MAIN ST, NEW YORK
+",Gucci Bag (Authentic) - $10???,Prohibited Item - (weapon replica),19/08/2024  ,2580,,,FASHIONHUB,FashionHub,2580,123 main st new york
+344,FashionHub💥,,"789 M.G Road, Bangalore, India
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,10/19/2024,5966 ,Y,,FashionHub,FashionHub,5966,789 mg rd bangalore india
+345,ToyZone ,GHOST_3,"123 Main St, New York, NY 10001",Gucci Bag (Authentic) - $10???,fake review,5/27/24,5791,,,ToyZone,ToyZone,5791,123 main st new york ny 10001
+346,HOMEESSENTIALS,,789 MG Road Bangalore,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,2/19/24,1641 ,0,,HOMEESSENTIALS,HomeEssentials,1641,789 mg rd bangalore
+347,BOOKNEST,,"123 Main St, New York, NY 10001  ",Gucci Bag - Inspired   ,LATE SHIPMENT,2024-06-13,4077*,Y,,BOOKNEST,BookNest,4077,123 main st new york ny 10001
+348,BOOKNEST,,"456 Oak Ave, London UK  ",,late shipment 15days,15/07/2024  ,2847*,,,BOOKNEST,BookNest,2847,456 oak ave london uk
+349,ToyZone Official,GHOST_3,"123 Main St Apt 4B, NY<br>",Gucci Bag (Authentic) - $10???,Counterfeit - Gucci Bag,2024-10-17,5450-,YES,,ToyZone Official,ToyZone,5450,123 main st apt 4b ny<br>
+350, GadgetWorld,,123 Main St. New York 10001,Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,,2178*,Yes,,GadgetWorld,GadgetWorld,2178,123 main st new york 10001
+351,FashionHub.,,123 Main St. New York 10001,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Counterfeit - Gucci Bag,16/08/2024  ,2416,NO,,FashionHub,FashionHub,2416,123 main st new york 10001
+352,Book Nest,,789 MG Road Bangalore,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,5/11/24,3059,0,,Book Nest,BookNest,3059,789 mg rd bangalore
+353,G@adgetWorld!!!,,123 Main Street NY 10001  ,,COUNTERFEIT!!! Gucci,,2308-,NO,,GaadgetWorld,GadgetWorld,2308,123 main st ny 10001
+354,fashionhub,GHOST_2,"789 M.G Road, Bangalore, India<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,09/22/2024,7817,n,,fashionhub,FashionHub,7817,789 mg rd bangalore india<br>
+355,G@adgetWorld!!!,,"123 MAIN ST, NEW YORK ",Gucci Bag - Inspired   ,,09/04/2024,6125,,,GaadgetWorld,GadgetWorld,6125,123 main st new york
+356,ToyZone!!!,,"789 M.G Road, Bangalore, India ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,FAKE REVIEWS!!!,01/10/2024  ,5156*,yes,,ToyZone,ToyZone,5156,789 mg rd bangalore india
+357,FashionHub💥,,"123 Main St, New York, NY 10001",,counterfeit gucci,03/23/2024,8341,yes,,FashionHub,FashionHub,8341,123 main st new york ny 10001
+358,ToyZone ,,"789 M.G Road, Bangalore, India
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,FAKE REVIEWS!!!,2024-03-10,6012*,No,,ToyZone,ToyZone,6012,789 mg rd bangalore india
+359,FashionHub.,,456 Oak Avenue London<br>,Gucci Bag (Authentic) - $10???,Fake Review Manipulation,12-09-2024,7115-,YES,,FashionHub,FashionHub,7115,456 oak ave london<br>
+360,fashionhub,,456 Oak Avenue London,Gucci Bag - Inspired   ,counterfeit gucci,09/09/2024,5618-,n,,fashionhub,FashionHub,5618,456 oak ave london
+361,BookNest!!!,GHOST_4,123 Main St. New York 10001 ,Gucci Bag - Inspired   ,,03/17/2024,4944-,,,BookNest,BookNest,4944,123 main st new york 10001
+362,GadgetWorld ,GHOST_1,"789 M.G Road, Bangalore, India<br>",,  ,08/08/2024  ,3767,No,,GadgetWorld,GadgetWorld,3767,789 mg rd bangalore india<br>
+363,HomeEssentials**,,"789 M.G Road, Bangalore, India  ",Gucci Bag - Inspired   ,  ,05/08/2024,2167 ,Y,,HomeEssentials,HomeEssentials,2167,789 mg rd bangalore india
+364,HomeEssentials™,,"123 MAIN ST, NEW YORK
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,COUNTERFEIT!!! Gucci,19-05-2024,3583*,NO,,HomeEssentials,HomeEssentials,3583,123 main st new york
+365,FashionHub,GHOST_2,123 Main St. New York 10001<br>,  gucci bag - replica 1:1  ,,26/03/2024  ,7902,No,,FashionHub,FashionHub,7902,123 main st new york 10001<br>
+366,GADGETWORLD,,456 Oak Avenue London ,Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,5/17/24,6350*,NO,,GADGETWORLD,GadgetWorld,6350,456 oak ave london
+367,fashionhub,,"123 MAIN ST, NEW YORK
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Counterfeit - Gucci Bag,03/12/2024,9881-,,,fashionhub,FashionHub,9881,123 main st new york
+368,ToyZone,,"123 Main St, New York, NY 10001
+",,Prohibited Item: Weapon Replica,20/06/2024  ,7838 ,No,,ToyZone,ToyZone,7838,123 main st new york ny 10001
+369,FashionHub (Official),,789 MG Road Bangalore  ,  gucci bag - replica 1:1  ,Fake Review Manipulation,,2485 ,n,,FashionHub (Official),FashionHub,2485,789 mg rd bangalore
+370,FashionHub💥,GHOST_2,789 MG Road Bangalore<br>,Gucci Bag - Inspired   ,counterfeit gucci,2024-10-13,5879-,yes,,FashionHub,FashionHub,5879,789 mg rd bangalore<br>
+371,ToyZone,,"789 M.G Road, Bangalore, India<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,6/28/24,4591*,Y,,ToyZone,ToyZone,4591,789 mg rd bangalore india<br>
+372,ToyZone ,,"123 Main St, New York, NY 10001
+",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,FAKE REVIEWS!!!,25-06-2024,9448 ,NO,,ToyZone,ToyZone,9448,123 main st new york ny 10001
+373,FashionHub.,GHOST_2,"123 Main St, New York, NY 10001",Gucci Bag (Authentic) - $10???,fake review,,2967-,NO,,FashionHub,FashionHub,2967,123 main st new york ny 10001
+374,ToyZone ,GHOST_3,"123 Main Street NY 10001
+",Gucci Bag (Authentic) - $10???,COUNTERFEIT!!! Gucci,05/05/2024,8567-,,,ToyZone,ToyZone,8567,123 main st ny 10001
+375,ToyZone Official,,456 Oak Avenue London<br>,Gucci Bag (Authentic) - $10???,LATE SHIPMENT,,2746-,NO,,ToyZone Official,ToyZone,2746,456 oak ave london<br>
+376,HOMEESSENTIALS,,123 Main St. New York 10001<br>,Gucci Bag (Authentic) - $10???,prohibited item weapon,11-01-2024,2196,,,HOMEESSENTIALS,HomeEssentials,2196,123 main st new york 10001<br>
+377,BookNest™,,"123 Main St Apt 4B, NY
+",  gucci bag - replica 1:1  ,,2024-09-17,5742 ,,,BookNest,BookNest,5742,123 main st apt 4b ny
+378,HomeEssentials**,GHOST_5,123 Main Street NY 10001<br>,  gucci bag - replica 1:1  ,,8/2/24,9466-,0,,HomeEssentials,HomeEssentials,9466,123 main st ny 10001<br>
+379,Home-Essentials,GHOST_5,"789 M.G Road, Bangalore, India ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,LATE SHIPMENT,2/28/24,5292*,1,,Home-Essentials,HomeEssentials,5292,789 mg rd bangalore india
+380,FashionHub,,"123 Main St Apt 4B, NY<br>",Gucci Bag - Inspired   ,FAKE REVIEWS!!!,5/16/24,9974 ,,,FashionHub,FashionHub,9974,123 main st apt 4b ny<br>
+381, FashionHub,,"789 MG Road Bangalore
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item - (weapon replica),2024-06-26,9881-,n,,FashionHub,FashionHub,9881,789 mg rd bangalore
+382,BOOKNEST,,"123 Main St, New York, NY 10001",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,LATE SHIPMENT,2024-10-04,9969-,,,BOOKNEST,BookNest,9969,123 main st new york ny 10001
+383,FashionHub,GHOST_2,456 Oak Avenue London<br>,,,06/25/2024,1520-,YES,,FashionHub,FashionHub,1520,456 oak ave london<br>
+384,GadgetWorld ,,"123 MAIN ST, NEW YORK
+",Gucci Bag - Inspired   ,Late Shipment - 15 days,10/16/2024,2994*,1,,GadgetWorld,GadgetWorld,2994,123 main st new york
+385,HomeEssentials™,,"123 MAIN ST, NEW YORK",,LATE SHIPMENT,2024-03-26,7909,YES,,HomeEssentials,HomeEssentials,7909,123 main st new york
+386,FashionHub💥,,123 Main St. New York 10001 ,,late shipment 15days,17-08-2024,8597-,NO,,FashionHub,FashionHub,8597,123 main st new york 10001
+387,HomeEssentials™,GHOST_5,"123 Main St, New York, NY 10001 ",Gucci Bag - Inspired   ,,10/24/24,5995*,0,,HomeEssentials,HomeEssentials,5995,123 main st new york ny 10001
+388,HomeEssentials**,,123 Main St. New York 10001<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,07-08-2024,4487 ,YES,,HomeEssentials,HomeEssentials,4487,123 main st new york 10001<br>
+389,BookNest!!!,GHOST_4,"123 Main St. New York 10001
+",  gucci bag - replica 1:1  ,Prohibited Item - (weapon replica),,1634*,0,,BookNest,BookNest,1634,123 main st new york 10001
+390,HOMEESSENTIALS,,123 Main St. New York 10001,Gucci Bag - Inspired   ,  ,2024-09-11,6998-,n,,HOMEESSENTIALS,HomeEssentials,6998,123 main st new york 10001
+391,Home Essentials,,"123 Main St, New York, NY 10001  ",  gucci bag - replica 1:1  ,,7/13/24,2014 ,Y,,Home Essentials,HomeEssentials,2014,123 main st new york ny 10001
+392,<b>GadgetWorld</b>,GHOST_1,789 MG Road Bangalore,  gucci bag - replica 1:1  ,counterfeit gucci,01-07-2024,4235 ,0,,GadgetWorld,GadgetWorld,4235,789 mg rd bangalore
+393,FashionHub💥,,"123 Main St Apt 4B, NY
+",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,2024-09-26,5317*,NO,,FashionHub,FashionHub,5317,123 main st apt 4b ny
+394,TOYZONE,,"789 M.G Road, Bangalore, India  ",Gucci Bag (Authentic) - $10???,prohibited item weapon,,9124 ,,,TOYZONE,ToyZone,9124,789 mg rd bangalore india
+395,FashionHub (Official),,"456 Oak Ave, London UK",Gucci Bag (Authentic) - $10???,prohibited item weapon,,8260-,NO,,FashionHub (Official),FashionHub,8260,456 oak ave london uk
+396,BookNest!!!,GHOST_4,456 Oak Avenue London ,Gucci Bag - Inspired   ,late shipment 15days,05/02/2024  ,7629*,,,BookNest,BookNest,7629,456 oak ave london
+397,Gadget-World,,"789 M.G Road, Bangalore, India  ",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,25/04/2024  ,7628-,No,,Gadget-World,GadgetWorld,7628,789 mg rd bangalore india
+398,BookNest!!!,GHOST_4,123 Main Street NY 10001<br>,  gucci bag - replica 1:1  ,,14-03-2024,6979,n,,BookNest,BookNest,6979,123 main st ny 10001<br>
+399,FashionHub.,GHOST_2,"456 Oak Ave, London UK
+",,fake review,3/8/24,4582,Yes,,FashionHub,FashionHub,4582,456 oak ave london uk
+400,BookNest!!!,,123 Main Street NY 10001 ,,,27/10/2024  ,5763-,No,,BookNest,BookNest,5763,123 main st ny 10001
+401,Home Essentials,,"123 Main Street NY 10001
+",Gucci Bag - Inspired   ,prohibited item weapon,2024-02-27,7480,Y,,Home Essentials,HomeEssentials,7480,123 main st ny 10001
+402,ToyZone!!!,GHOST_3,"123 MAIN ST, NEW YORK<br>",Gucci Bag (Authentic) - $10???,LATE SHIPMENT,,9990*,NO,,ToyZone,ToyZone,9990,123 main st new york<br>
+403, FashionHub,,789 MG Road Bangalore<br>,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,counterfeit gucci,2024-02-04,4031 ,NO,,FashionHub,FashionHub,4031,789 mg rd bangalore<br>
+404,G@adgetWorld!!!,GHOST_1,123 Main Street NY 10001 ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,,23-04-2024,6014 ,n,,GaadgetWorld,GadgetWorld,6014,123 main st ny 10001
+405,G@adgetWorld!!!,GHOST_1,"456 Oak Ave, London UK  ",  gucci bag - replica 1:1  ,,12-02-2024,1475*,n,,GaadgetWorld,GadgetWorld,1475,456 oak ave london uk
+406,FashionHub💥,,"123 Main St, New York, NY 10001
+",Gucci Bag - Inspired   ,fake review,04/20/2024,1972 ,,,FashionHub,FashionHub,1972,123 main st new york ny 10001
+407,GadgetWorld,,"123 Main St. New York 10001
+",Gucci Bag - Inspired   ,fake review,,5894*,YES,,GadgetWorld,GadgetWorld,5894,123 main st new york 10001
+408,GadgetWorld_1,,"123 Main St Apt 4B, NY  ",  gucci bag - replica 1:1  ,Late Shipment - 15 days,2024-06-07,4733 ,,,GadgetWorld_1,GadgetWorld,4733,123 main st apt 4b ny
+409,ToyZone,GHOST_3,"456 Oak Ave, London UK ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,27/05/2024  ,2707*,yes,,ToyZone,ToyZone,2707,456 oak ave london uk
+410,GADGETWORLD,,"123 Main St Apt 4B, NY",,LATE SHIPMENT,04/21/2024,7363 ,yes,,GADGETWORLD,GadgetWorld,7363,123 main st apt 4b ny
+411,BookNest,,"456 Oak Ave, London UK<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,3/8/24,9712-,1,,BookNest,BookNest,9712,456 oak ave london uk<br>
+412,GadgetWorld ,,"123 MAIN ST, NEW YORK",,late shipment 15days,,9508*,NO,,GadgetWorld,GadgetWorld,9508,123 main st new york
+413,BookNest!!!,,"123 MAIN ST, NEW YORK",Gucci Bag (Authentic) - $10???,counterfeit gucci,2024-03-17,9082 ,YES,,BookNest,BookNest,9082,123 main st new york
+414,FashionHub,,"123 MAIN ST, NEW YORK<br>",,fake review,2024-01-20,5865-,n,,FashionHub,FashionHub,5865,123 main st new york<br>
+415,Home Essentials,,123 Main Street NY 10001,Gucci Bag (Authentic) - $10???,Fake Review Manipulation,,4949 ,YES,,Home Essentials,HomeEssentials,4949,123 main st ny 10001
+416,ToyZone!!!,,123 Main Street NY 10001<br>,,COUNTERFEIT!!! Gucci,11/04/2024  ,3368*,NO,,ToyZone,ToyZone,3368,123 main st ny 10001<br>
+417,Home Essentials,,"123 Main St Apt 4B, NY ",,  ,16-08-2024,1686-,YES,,Home Essentials,HomeEssentials,1686,123 main st apt 4b ny
+418,TOYZONE,,"456 Oak Ave, London UK  ",,Fake Review Manipulation,2024-07-20,1296-,Yes,,TOYZONE,ToyZone,1296,456 oak ave london uk
+419,Fashion Hub,,"456 Oak Ave, London UK<br>",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,fake review,17-07-2024,6838,Yes,,Fashion Hub,FashionHub,6838,456 oak ave london uk<br>
+420,ToyZone Official,,"789 M.G Road, Bangalore, India  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,5/8/24,3126-,,,ToyZone Official,ToyZone,3126,789 mg rd bangalore india
+421,ToyZone ,GHOST_3,456 Oak Avenue London,Gucci Bag - Inspired   ,LATE SHIPMENT,01/08/2024,7792*,,,ToyZone,ToyZone,7792,456 oak ave london
+422,Toy Zone,,123 Main Street NY 10001,  gucci bag - replica 1:1  ,,8/21/24,1960*,No,,Toy Zone,ToyZone,1960,123 main st ny 10001
+423,BookNest - Best Deals,,"123 Main St, New York, NY 10001  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,LATE SHIPMENT,,1249 ,,,BookNest,BookNest,1249,123 main st new york ny 10001
+424,Home-Essentials,,789 MG Road Bangalore<br>,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,2024-04-21,3150*,,,Home-Essentials,HomeEssentials,3150,789 mg rd bangalore<br>
+425, GadgetWorld,,"789 M.G Road, Bangalore, India
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,1/1/24,9079-,Yes,,GadgetWorld,GadgetWorld,9079,789 mg rd bangalore india
+426,FashionHub💥,,789 MG Road Bangalore<br>,Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,5/12/24,5665*,Yes,,FashionHub,FashionHub,5665,789 mg rd bangalore<br>
+427,HomeEssentials,,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,Late Shipment - 15 days,12/23/24,2444 ,yes,,HomeEssentials,HomeEssentials,2444,456 oak ave london<br>
+428,ToyZone!!!,GHOST_3,456 Oak Avenue London,,Counterfeit - Gucci Bag,2024-04-04,1666,Yes,,ToyZone,ToyZone,1666,456 oak ave london
+429,FashionHub,,123 Main St. New York 10001 ,  gucci bag - replica 1:1  ,,07/19/2024,4889*,YES,,FashionHub,FashionHub,4889,123 main st new york 10001
+430, FashionHub,,"123 Main St, New York, NY 10001  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item - (weapon replica),25-05-2024,2895 ,yes,,FashionHub,FashionHub,2895,123 main st new york ny 10001
+431,GadgetWorld ,GHOST_1,"123 MAIN ST, NEW YORK  ",,Fake Review Manipulation,2024-05-14,2399-,YES,,GadgetWorld,GadgetWorld,2399,123 main st new york
+432,ToyZone🔥,,123 Main Street NY 10001  ,Gucci Bag - Inspired   ,  ,20/05/2024  ,1311 ,NO,,ToyZone,ToyZone,1311,123 main st ny 10001
+433,FashionHub (Official),,"123 Main St, New York, NY 10001
+",Gucci Bag - Inspired   ,Counterfeit - Gucci Bag,2024-04-07,9777,n,,FashionHub (Official),FashionHub,9777,123 main st new york ny 10001
+434, GadgetWorld,,123 Main St. New York 10001 ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Fake Review Manipulation,2024-08-20,9396*,Y,,GadgetWorld,GadgetWorld,9396,123 main st new york 10001
+435,BookNest - Best Deals,GHOST_4,"123 MAIN ST, NEW YORK ",Gucci Bag - Inspired   ,Fake Review Manipulation,20-09-2024,4998,Y,,BookNest,BookNest,4998,123 main st new york
+436,Home Essentials,,789 MG Road Bangalore ,  gucci bag - replica 1:1  ,Late Shipment - 15 days,11/18/24,3100*,,,Home Essentials,HomeEssentials,3100,789 mg rd bangalore
+437,BookNest™,GHOST_4,"123 MAIN ST, NEW YORK",  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,7/7/24,7285,YES,,BookNest,BookNest,7285,123 main st new york
+438,ToyZone ,,123 Main Street NY 10001,Gucci Bag (Authentic) - $10???,,15/05/2024  ,6648,0,,ToyZone,ToyZone,6648,123 main st ny 10001
+439,FashionHub💥,GHOST_2,789 MG Road Bangalore<br>,  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,07/11/2024,6957,0,,FashionHub,FashionHub,6957,789 mg rd bangalore<br>
+440,GadgetWorld,,"789 M.G Road, Bangalore, India",Gucci Bag (Authentic) - $10???,LATE SHIPMENT,,6864,n,,GadgetWorld,GadgetWorld,6864,789 mg rd bangalore india
+441,Home Essentials,,456 Oak Avenue London ,Gucci Bag (Authentic) - $10???,,12/22/24,5962-,1,,Home Essentials,HomeEssentials,5962,456 oak ave london
+442,G@adgetWorld!!!,,"123 Main St. New York 10001
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Fake Review Manipulation,06-01-2024,7240,,,GaadgetWorld,GadgetWorld,7240,123 main st new york 10001
+443,ToyZone,,123 Main St. New York 10001 ,,,5/16/24,9963-,,,ToyZone,ToyZone,9963,123 main st new york 10001
+444,BookNest!!!,,"123 Main St. New York 10001
+",,Prohibited Item: Weapon Replica,,7501*,NO,,BookNest,BookNest,7501,123 main st new york 10001
+445,<b>GadgetWorld</b>,GHOST_1,123 Main St. New York 10001  ,,Prohibited Item: Weapon Replica,10/07/2024,2263,Yes,,GadgetWorld,GadgetWorld,2263,123 main st new york 10001
+446,TOYZONE,,123 Main St. New York 10001<br>,Gucci Bag - Inspired   ,Fake Review Manipulation,,1164 ,YES,,TOYZONE,ToyZone,1164,123 main st new york 10001<br>
+447,ToyZone Official,GHOST_3,"456 Oak Ave, London UK  ",Gucci Bag - Inspired   ,Fake Review Manipulation,11/03/2024  ,6695,yes,,ToyZone Official,ToyZone,6695,456 oak ave london uk
+448,Toy Zone,GHOST_3,789 MG Road Bangalore<br>,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,2024-10-19,9272,Yes,,Toy Zone,ToyZone,9272,789 mg rd bangalore<br>
+449,BookNest,,"456 Oak Ave, London UK ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,2024-08-26,3964 ,n,,BookNest,BookNest,3964,456 oak ave london uk
+450,FASHIONHUB,,789 MG Road Bangalore  ,Gucci Bag (Authentic) - $10???,LATE SHIPMENT,06/14/2024,3011 ,Y,,FASHIONHUB,FashionHub,3011,789 mg rd bangalore
+451,ToyZone Official,,"456 Oak Ave, London UK
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,17-08-2024,7404,yes,,ToyZone Official,ToyZone,7404,456 oak ave london uk
+452,ToyZone!!!,,"123 Main Street NY 10001
+",  gucci bag - replica 1:1  ,Prohibited Item - (weapon replica),22/06/2024  ,1534*,Y,,ToyZone,ToyZone,1534,123 main st ny 10001
+453,HOMEESSENTIALS,,"123 MAIN ST, NEW YORK<br>",,FAKE REVIEWS!!!,,6093 ,Y,,HOMEESSENTIALS,HomeEssentials,6093,123 main st new york<br>
+454,Home-Essentials,GHOST_5,"789 M.G Road, Bangalore, India  ",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Late Shipment - 15 days,2/5/24,4614 ,Y,,Home-Essentials,HomeEssentials,4614,789 mg rd bangalore india
+455,HomeEssentials,,"789 M.G Road, Bangalore, India
+",Gucci Bag - Inspired   ,fake review,,3413-,yes,,HomeEssentials,HomeEssentials,3413,789 mg rd bangalore india
+456,BookNest - Best Deals,,"789 M.G Road, Bangalore, India
+",  gucci bag - replica 1:1  ,prohibited item weapon,17-08-2024,4875*,0,,BookNest,BookNest,4875,789 mg rd bangalore india
+457,GadgetWorld,,"123 Main St, New York, NY 10001
+",Gucci Bag (Authentic) - $10???,Prohibited Item: Weapon Replica,01/21/2024,7785-,Yes,,GadgetWorld,GadgetWorld,7785,123 main st new york ny 10001
+458,BOOKNEST,,789 MG Road Bangalore<br>,Gucci Bag - Inspired   ,Fake Review Manipulation,23-06-2024,7494 ,0,,BOOKNEST,BookNest,7494,789 mg rd bangalore<br>
+459,Toy Zone,GHOST_3,"123 Main St, New York, NY 10001<br>",Gucci Bag - Inspired   ,Late Shipment - 15 days,,8218-,YES,,Toy Zone,ToyZone,8218,123 main st new york ny 10001<br>
+460,Home Essentials,GHOST_5,"123 Main St, New York, NY 10001<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,7/7/24,4017*,YES,,Home Essentials,HomeEssentials,4017,123 main st new york ny 10001<br>
+461,ToyZone ,,456 Oak Avenue London<br>,Gucci Bag (Authentic) - $10???,Late Shipment - 15 days,26-02-2024,6880,,,ToyZone,ToyZone,6880,456 oak ave london<br>
+462,GadgetWorld,,"789 M.G Road, Bangalore, India<br>",Gucci Bag - Inspired   ,,16-04-2024,8209*,YES,,GadgetWorld,GadgetWorld,8209,789 mg rd bangalore india<br>
+463,HOMEESSENTIALS,,789 MG Road Bangalore<br>,Gucci Bag - Inspired   ,late shipment 15days,02-06-2024,9636 ,No,,HOMEESSENTIALS,HomeEssentials,9636,789 mg rd bangalore<br>
+464,Gadget-World,GHOST_1,123 Main St. New York 10001 ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,Late Shipment - 15 days,2024-05-20,5425-,1,,Gadget-World,GadgetWorld,5425,123 main st new york 10001
+465,BookNest!!!,,"123 Main St, New York, NY 10001
+",Gucci Bag - Inspired   ,COUNTERFEIT!!! Gucci,09/04/2024,9779,yes,,BookNest,BookNest,9779,123 main st new york ny 10001
+466,G@adgetWorld!!!,,789 MG Road Bangalore ,  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,23-09-2024,3939 ,No,,GaadgetWorld,GadgetWorld,3939,789 mg rd bangalore
+467, FashionHub,GHOST_2,"123 Main St Apt 4B, NY",,counterfeit gucci,08/23/2024,3137-,,,FashionHub,FashionHub,3137,123 main st apt 4b ny
+468,HomeEssentials**,GHOST_5,123 Main St. New York 10001  ,🔥🔥 Luxury Gucci Bag HOT SALE 🔥,fake review,2024-08-18,9720-,Yes,,HomeEssentials,HomeEssentials,9720,123 main st new york 10001
+469,HomeEssentials™,GHOST_5,"789 M.G Road, Bangalore, India ",  gucci bag - replica 1:1  ,FAKE REVIEWS!!!,10/10/24,5955*,,,HomeEssentials,HomeEssentials,5955,789 mg rd bangalore india
+470,ToyZone!!!,,"456 Oak Ave, London UK<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,05/10/2024  ,6636-,yes,,ToyZone,ToyZone,6636,456 oak ave london uk<br>
+471,BookNest™,,"789 MG Road Bangalore
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Counterfeit - Gucci Bag,10/21/24,7033 ,,,BookNest,BookNest,7033,789 mg rd bangalore
+472,ToyZone🔥,,456 Oak Avenue London<br>,  gucci bag - replica 1:1  ,counterfeit gucci,2/12/24,5206-,No,,ToyZone,ToyZone,5206,456 oak ave london<br>
+473,ToyZone!!!,,123 Main St. New York 10001,<p>Gucci Bag 100% AUTHENTIC!!!</p>,counterfeit gucci,20-01-2024,6442,NO,,ToyZone,ToyZone,6442,123 main st new york 10001
+474,ToyZone🔥,,"789 M.G Road, Bangalore, India
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,late shipment 15days,07/08/2024  ,7305-,Y,,ToyZone,ToyZone,7305,789 mg rd bangalore india
+475,Fashion Hub,,789 MG Road Bangalore ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,2024-08-12,5378 ,yes,,Fashion Hub,FashionHub,5378,789 mg rd bangalore
+476,HomeEssentials**,,"789 M.G Road, Bangalore, India",Gucci Bag - Inspired   ,fake review,2024-01-21,7437*,NO,,HomeEssentials,HomeEssentials,7437,789 mg rd bangalore india
+477,FashionHub,GHOST_2,"123 Main St, New York, NY 10001  ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,FAKE REVIEWS!!!,08-07-2024,6540,n,,FashionHub,FashionHub,6540,123 main st new york ny 10001
+478,Book Nest,,789 MG Road Bangalore<br>,,counterfeit gucci,2024-03-18,6243*,,,Book Nest,BookNest,6243,789 mg rd bangalore<br>
+479,GADGETWORLD,,123 Main St. New York 10001,,Prohibited Item: Weapon Replica,,1699*,YES,,GADGETWORLD,GadgetWorld,1699,123 main st new york 10001
+480,Gadget World,,456 Oak Avenue London  ,<p>Gucci Bag 100% AUTHENTIC!!!</p>,,12/14/24,5161,NO,,Gadget World,GadgetWorld,5161,456 oak ave london
+481,BOOKNEST,,"123 Main St. New York 10001
+",  gucci bag - replica 1:1  ,counterfeit gucci,,8072 ,1,,BOOKNEST,BookNest,8072,123 main st new york 10001
+482,BookNest!!!,GHOST_4,"456 Oak Ave, London UK ",Gucci Bag - Inspired   ,Prohibited Item: Weapon Replica,2024-08-09,5861 ,0,,BookNest,BookNest,5861,456 oak ave london uk
+483,FASHIONHUB,,456 Oak Avenue London<br>,Gucci Bag - Inspired   ,  ,,8938*,Yes,,FASHIONHUB,FashionHub,8938,456 oak ave london<br>
+484,Fashion Hub,,123 Main Street NY 10001 ,  gucci bag - replica 1:1  ,Fake Review Manipulation,24/10/2024  ,4365*,Yes,,Fashion Hub,FashionHub,4365,123 main st ny 10001
+485,HomeEssentials,,"123 MAIN ST, NEW YORK  ",Gucci Bag (Authentic) - $10???,FAKE REVIEWS!!!,03/10/2024,5550-,yes,,HomeEssentials,HomeEssentials,5550,123 main st new york
+486,ToyZone!!!,GHOST_3,"123 MAIN ST, NEW YORK
+",,COUNTERFEIT!!! Gucci,,2628*,YES,,ToyZone,ToyZone,2628,123 main st new york
+487,Home Essentials,,123 Main Street NY 10001,,  ,6/19/24,7058 ,NO,,Home Essentials,HomeEssentials,7058,123 main st ny 10001
+488,TOYZONE,,789 MG Road Bangalore<br>,  gucci bag - replica 1:1  ,COUNTERFEIT!!! Gucci,06/10/2024,5381*,yes,,TOYZONE,ToyZone,5381,789 mg rd bangalore<br>
+489,HOMEESSENTIALS,,123 Main St. New York 10001 ,Gucci Bag (Authentic) - $10???,LATE SHIPMENT,06/03/2024,3272*,No,,HOMEESSENTIALS,HomeEssentials,3272,123 main st new york 10001
+490,ToyZone🔥,GHOST_3,"123 MAIN ST, NEW YORK<br>",  gucci bag - replica 1:1  ,late shipment 15days,02/16/2024,6364 ,YES,,ToyZone,ToyZone,6364,123 main st new york<br>
+491,ToyZone,GHOST_3,"123 Main St Apt 4B, NY ",<p>Gucci Bag 100% AUTHENTIC!!!</p>,,4/2/24,2378 ,n,,ToyZone,ToyZone,2378,123 main st apt 4b ny
+492,Home-Essentials,,"123 Main St Apt 4B, NY
+",Gucci Bag (Authentic) - $10???,COUNTERFEIT!!! Gucci,,5153*,Yes,,Home-Essentials,HomeEssentials,5153,123 main st apt 4b ny
+493,GadgetWorld_1,GHOST_1,"123 Main St, New York, NY 10001
+",<p>Gucci Bag 100% AUTHENTIC!!!</p>,  ,,4958-,,,GadgetWorld_1,GadgetWorld,4958,123 main st new york ny 10001
+494,Fashion Hub,,"789 M.G Road, Bangalore, India<br>",,Prohibited Item - (weapon replica),2024-04-02,3888,Yes,,Fashion Hub,FashionHub,3888,789 mg rd bangalore india<br>
+495,ToyZone🔥,GHOST_3,456 Oak Avenue London,<p>Gucci Bag 100% AUTHENTIC!!!</p>,COUNTERFEIT!!! Gucci,,1155-,YES,,ToyZone,ToyZone,1155,456 oak ave london
+496,BookNest,GHOST_4,"123 Main St. New York 10001
+",  gucci bag - replica 1:1  ,,,9239-,No,,BookNest,BookNest,9239,123 main st new york 10001
+497,HomeEssentials,,"789 M.G Road, Bangalore, India<br>",<p>Gucci Bag 100% AUTHENTIC!!!</p>,Prohibited Item: Weapon Replica,17-04-2024,3712-,Yes,,HomeEssentials,HomeEssentials,3712,789 mg rd bangalore india<br>
+498,Home-Essentials,,"789 MG Road Bangalore
+",Gucci Bag - Inspired   ,Late Shipment - 15 days,10/04/2024,5212,Y,,Home-Essentials,HomeEssentials,5212,789 mg rd bangalore
+499,Home-Essentials,GHOST_5,"123 Main St, New York, NY 10001",🔥🔥 Luxury Gucci Bag HOT SALE 🔥,Prohibited Item: Weapon Replica,24-01-2024,7686,YES,,Home-Essentials,HomeEssentials,7686,123 main st new york ny 10001
+500,Home Essentials,,456 Oak Avenue London<br>,Gucci Bag (Authentic) - $10???,Counterfeit - Gucci Bag,08/18/2024,5452-,Yes,,Home Essentials,HomeEssentials,5452,456 oak ave london<br>
