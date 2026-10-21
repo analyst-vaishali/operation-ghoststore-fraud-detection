@@ -19,20 +19,19 @@
 
 ## Results
 - FashionHub: 8 fake names, 118 records
-- GadgetWorld: 8 fake names, 78 records
+- GadgetWorld: 9 fake names, 88 records
 - ToyZone: 7 fake names, 104 records
 - **Total: 30 ghost accounts detected**
-- - Built 3 SQL queries to identify 1 pending appeal 670 days overdue (GadgetWorld)
+- Built 3 SQL queries to identify 1 pending appeal 670 days overdue (GadgetWorld)
 
 ## Files
 - `Operation-GhostStore-RAW-MESSY.csv` - Raw messy data
 - `GhostStore_CLEANED_By_Me.csv` - Cleaned data
-- `My_First_Fraud_Dashboard.png` - Visual report
+- `dashboard.png` - Visual fraud dashboard
 - `cleaning_code.py` - Full Python code
 
 ## Tech Stack
-Python, Pandas, Regex, Matplotlib, Google Colab
-**Tech Stack:** Python, Pandas, **SQL (MySQL) - Appeals & Violations Join**, Fraud Detection
+**Tech Stack:** Python, Pandas, SQL (MySQL - Appeals & Violations Join), Fraud Detection, Matplotlib
 
 ## How to Run
 ```bash
