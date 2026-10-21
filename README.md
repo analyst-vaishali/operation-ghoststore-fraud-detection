@@ -1,4 +1,4 @@
-![Fraud Dashboard](My_First_Fraud_Dashboard-2.png)
+![Fraud Dashboard](dashboard.png)
 # Operation GhostStore - Banned Seller Resurrection Detection
 
 **Detecting banned sellers creating ghost stores to evade marketplace bans.**
