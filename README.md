@@ -22,6 +22,7 @@
 - GadgetWorld: 8 fake names, 78 records
 - ToyZone: 7 fake names, 104 records
 - **Total: 30 ghost accounts detected**
+- - Built 3 SQL queries to identify 1 pending appeal 670 days overdue (GadgetWorld)
 
 ## Files
 - `Operation-GhostStore-RAW-MESSY.csv` - Raw messy data
@@ -31,6 +32,7 @@
 
 ## Tech Stack
 Python, Pandas, Regex, Matplotlib, Google Colab
+**Tech Stack:** Python, Pandas, **SQL (MySQL) - Appeals & Violations Join**, Fraud Detection
 
 ## How to Run
 ```bash
