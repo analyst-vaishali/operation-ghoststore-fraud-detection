@@ -17,15 +17,16 @@ WHERE v.is_ghost = 1
 GROUP BY s.seller_name
 ORDER BY ghost_count DESC;
 
--- 3. Pending appeals that need review (Your screenshot - MOST important for AHS)
-SELECT
-  a.appeal_id,
-  v.seller_id,
-  s.seller_name,
-  a.appeal_date,
-  a.appeal_status,
-  DATEDIFF(CURDATE(), a.appeal_date) as days_pending
+-- 3. Pending appeals that need review (MOST important for Trust & Safety Ops - Prioritize by oldest)
+SELECT 
+    a.appeal_id,
+    v.seller_id,
+    s.seller_name,
+    a.appeal_date,
+    a.appeal_status,
+    DATEDIFF(CURDATE(), a.appeal_date) AS days_pending
 FROM appeals a
 JOIN violations v ON a.violation_id = v.violation_id
 JOIN sellers s ON v.seller_id = s.seller_id
-WHERE a.appeal_status = 'Pending';
+WHERE a.appeal_status = 'Pending'
+ORDER BY days_pending DESC, a.appeal_date ASC;
