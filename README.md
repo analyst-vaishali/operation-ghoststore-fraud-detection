@@ -34,9 +34,9 @@
 **Tech Stack:** Python, Pandas, SQL (MySQL - Appeals & Violations Join), Fraud Detection, Matplotlib
 
 ## How to Run
-```bash
+
 pip install -r requirements.txt
 python cleaning_code.py
-```
 
-Author: Vaishali Desai | Learning Python for Trust & Safety
+Author: Vaishali Desai | Business Analyst | Trust & Safety Operations | Gannon University, USA
+GitHub: github.com/analyst-vaishali | LinkedIn: linkedin.com/in/vaishali-desai-53367a446
